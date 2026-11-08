@@ -101,6 +101,7 @@ const pairExplanations = {
 };
 
 let questions = [];
+let provenanceGroups = [];
 let currentRound = [];
 let cursor = 0;
 let sessionAnswers = [];
@@ -147,21 +148,44 @@ function whyFor(question) {
   return `“${question.prompt}”在这里可理解为“${promptMeaning}”；“${question.answer}”可理解为“${answerMeaning}”。在这份资料对应的听力语境中，后者用更具体、不同词性或更自然的说法重述前者的信息，因此原表把它列为可识别的替换关系。注意：这是语境内的信息改写，不表示两个表达在所有句子中都能直接互换，仍要核对词性、搭配和语气。`;
 }
 
+function sourceGroupFor(questionId) {
+  return provenanceGroups.find((group) => questionId >= group.idStart && questionId <= group.idEnd) || null;
+}
+
+function contextForSource(sourceLabel, question) {
+  const match = /^C(\d+)\s*·\s*Test\s*(\d+)\s*·\s*Part\s*(\d+)$/.exec(sourceLabel);
+  if (!match) return `本条定位于 ${sourceLabel}。回听该部分时，重点辨认题干“${question.prompt}”如何被改说为“${question.answer}”。`;
+  const [, book, test, part] = match;
+  const partType = {
+    "1": "Part 1 的日常生活对话",
+    "2": "Part 2 的生活场景独白",
+    "3": "Part 3 的学习或讨论对话",
+    "4": "Part 4 的学术主题独白"
+  }[part] || `Part ${part}`;
+  return `本条定位于剑雅 ${book} Test ${test} ${partType}。回听该部分时，重点辨认题干“${question.prompt}”如何被改说为“${question.answer}”；公开版以中文定位说明代替英文听力原句。`;
+}
+
 function provenanceFor(question) {
   const provenance = question?.provenance && typeof question.provenance === "object" ? question.provenance : {};
-  const sourceLabel = typeof provenance.sourceLabel === "string" && provenance.sourceLabel.trim()
+  const sourceGroup = sourceGroupFor(question.id);
+  const resolvedLabel = typeof provenance.sourceLabel === "string" && provenance.sourceLabel.trim()
     ? provenance.sourceLabel.trim()
-    : "来源核对中";
+    : sourceGroup?.sourceLabel;
+  const sourceLabel = resolvedLabel || "来源待补充";
   const contextZh = typeof provenance.contextZh === "string" && provenance.contextZh.trim()
     ? provenance.contextZh.trim()
+    : resolvedLabel
+      ? contextForSource(resolvedLabel, question)
     : `原表未为这一条标注具体剑雅卷、Test 或 Part；目前保留 PDF 第 ${question.page} 页作为回查位置。`;
   const reason = typeof provenance.reason === "string" && provenance.reason.trim()
     ? provenance.reason.trim()
     : whyFor(question);
   const sourceNote = typeof provenance.sourceNote === "string" && provenance.sourceNote.trim()
     ? provenance.sourceNote.trim()
-    : "该条来源仍在根据原表分组标题回查。";
-  return { sourceLabel, contextZh, reason, sourceNote, verified: sourceLabel !== "来源核对中" };
+    : resolvedLabel
+      ? "出处依据原表分组标题定位；公开版不展示剑雅英文听力原句。"
+      : "该条来源仍在根据原表分组标题回查。";
+  return { sourceLabel, contextZh, reason, sourceNote, verified: Boolean(resolvedLabel) };
 }
 
 function provenanceMarkup(question) {
@@ -392,6 +416,14 @@ function wireInterface() {
 async function init() {
   const response = await fetch("./data/questions.json");
   questions = await response.json();
+  try {
+    const provenanceResponse = await fetch("./data/provenance-groups.json");
+    if (!provenanceResponse.ok) throw new Error("provenance index unavailable");
+    const provenanceIndex = await provenanceResponse.json();
+    provenanceGroups = Array.isArray(provenanceIndex.groups) ? provenanceIndex.groups : [];
+  } catch {
+    provenanceGroups = [];
+  }
   $("#sourceCount").textContent = questions.length.toLocaleString();
   populatePageFilters();
   updateStats();
