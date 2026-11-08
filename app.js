@@ -102,7 +102,9 @@ const pairExplanations = {
 
 let questions = [];
 let provenanceGroups = [];
+let meaningMap = Object.create(null);
 let currentRound = [];
+let activeOptions = [];
 let cursor = 0;
 let sessionAnswers = [];
 let hasAnswered = false;
@@ -118,26 +120,27 @@ function loadStats() {
 }
 
 function saveStats() { localStorage.setItem(STORAGE_KEY, JSON.stringify(stats)); }
-function normalize(value) { return value.toLowerCase().replace(/[^a-z]+/g, " ").trim(); }
+function repairText(value) {
+  return String(value)
+    .replace(/([A-Za-z]+(?:n['’]t|['’](?:m|s|re|ve|ll|d)))(?=[A-Za-z])/g, "$1 ")
+    .replace(/\bna vigate\b/gi, "navigate")
+    .replace(/\bem otional\b/gi, "emotional")
+    .replace(/\bme ntal\b/gi, "mental")
+    .replace(/\bpiecies\b/gi, "pieces")
+    .replace(/\bjewellry\b/gi, "jewellery")
+    .trim();
+}
+function normalize(value) { return repairText(value).toLowerCase().replace(/[^a-z]+/g, " ").trim(); }
+function meaningKey(value) { return repairText(value).replaceAll("’", "'").toLowerCase().replace(/\s+/g, " ").trim(); }
 function words(value) { return normalize(value).split(" ").filter(Boolean); }
 function shuffle(values) { const copy = [...values]; for (let i = copy.length - 1; i > 0; i -= 1) { const j = Math.floor(Math.random() * (i + 1)); [copy[i], copy[j]] = [copy[j], copy[i]]; } return copy; }
 function escapeHtml(value) { return String(value).replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" }[char])); }
 
+function hasMeaning(phrase) { return Boolean(meaningMap[meaningKey(phrase)]); }
 function meaningFor(phrase) {
-  const key = normalize(phrase);
-  if (phraseGlossary[key]) return phraseGlossary[key];
-  const tokens = words(phrase);
-  const translations = tokens.map((token) => wordGlossary[token]).filter(Boolean);
-  if (translations.length === tokens.length && translations.length) return translations.join("；");
-  if (translations.length) return `${translations.join("；")}（此处需结合上下文理解）`;
-  const categoryHints = {
-    change: "变化、调整或替换相关的表达", amount: "数量、程度或范围相关的表达", growth: "增长、提高或扩大相关的表达",
-    reduction: "减少、限制或下降相关的表达", time: "时间、先后或频率相关的表达", place: "地点、范围或空间相关的表达",
-    movement: "移动、出行或转移相关的表达", observation: "观察、识别或检查相关的表达", people: "人物、身份或群体相关的表达",
-    quality: "性质、程度或评价相关的表达", learning: "学习、研究或理解相关的表达", communication: "沟通、说明或建议相关的表达",
-    food: "食物、餐饮或饮食相关的表达", default: "请结合原句与 Oxford 词典核对的表达"
-  };
-  return categoryHints[getCategory({ prompt: phrase, answer: phrase })];
+  const meaning = meaningMap[meaningKey(phrase)];
+  if (!meaning) throw new Error(`缺少中文释义：${phrase}`);
+  return meaning;
 }
 
 function whyFor(question) {
@@ -145,7 +148,7 @@ function whyFor(question) {
   if (pairExplanations[key]) return pairExplanations[key];
   const promptMeaning = meaningFor(question.prompt);
   const answerMeaning = meaningFor(question.answer);
-  return `“${question.prompt}”在这里可理解为“${promptMeaning}”；“${question.answer}”可理解为“${answerMeaning}”。在这份资料对应的听力语境中，后者用更具体、不同词性或更自然的说法重述前者的信息，因此原表把它列为可识别的替换关系。注意：这是语境内的信息改写，不表示两个表达在所有句子中都能直接互换，仍要核对词性、搭配和语气。`;
+  return `本题中，“${question.prompt}”指“${promptMeaning}”；正确项“${question.answer}”指“${answerMeaning}”。题库依据对应听力语境把后者列为要识别的改说；判断时要看两者在原句传递的信息是否一致，而不能脱离原句把两个表达随意互换。`;
 }
 
 function sourceGroupFor(questionId) {
@@ -209,7 +212,7 @@ function provenanceMarkup(question) {
 }
 
 function optionMeaningMarkup(option, label, isCorrect) {
-  return `<div class="option-meaning-label">${isCorrect ? "正确选项释义" : `选项 ${label} 释义`}</div><strong>${escapeHtml(option)}</strong><p>中文意思：${escapeHtml(meaningFor(option))}</p>`;
+  return `<article class="option-meaning-card${isCorrect ? " is-correct" : ""}" data-answer="${escapeHtml(option)}"><div class="option-meaning-label">${isCorrect ? "正确选项释义" : `选项 ${label} 释义`}</div><strong>${escapeHtml(option)}</strong><p>中文意思：${escapeHtml(meaningFor(option))}</p></article>`;
 }
 
 function getCategory(question) {
@@ -222,19 +225,21 @@ function getOptions(question) {
   const excluded = new Set([normalize(correct), normalize(question.prompt)]);
   const category = getCategory(question);
   const expectedWords = words(correct).length;
-  const fromSemanticSet = shuffle(semanticSets[category]).filter((value) => !excluded.has(normalize(value)));
+  const fromSemanticSet = shuffle(semanticSets[category]).filter((value) => !excluded.has(normalize(value)) && hasMeaning(value));
   const answerPool = shuffle(questions.map((item) => item.answer)).filter((value) => {
     const cleaned = normalize(value);
     const wordDistance = Math.abs(words(value).length - expectedWords);
-    return !excluded.has(cleaned) && wordDistance <= 2 && value.length <= 48;
+    return !excluded.has(cleaned) && wordDistance <= 2 && value.length <= 48 && hasMeaning(value);
   });
-  const candidates = [...fromSemanticSet, ...answerPool];
+  const fallbackPool = shuffle(questions.flatMap((item) => [item.answer, item.prompt])).filter((value) => !excluded.has(normalize(value)) && hasMeaning(value));
+  const candidates = [...fromSemanticSet, ...answerPool, ...fallbackPool];
   const unique = [];
   for (const value of candidates) {
     const key = normalize(value);
     if (key && !excluded.has(key)) { unique.push(value); excluded.add(key); }
     if (unique.length === 3) break;
   }
+  if (unique.length !== 3) throw new Error(`干扰项释义不足：${question.id}`);
   return shuffle([correct, ...unique]);
 }
 
@@ -283,7 +288,8 @@ function renderQuestion() {
   $("#sourcePage").textContent = `来源：PDF 第 ${question.page} 页`;
   const lookupWord = words(question.prompt)[0] || question.prompt;
   $("#oxfordLink").href = `https://www.oxfordlearnersdictionaries.com/search/english/direct/?q=${encodeURIComponent(lookupWord)}`;
-  $("#options").innerHTML = getOptions(question).map((option, index) => `<button class="option" data-answer="${escapeHtml(option)}" data-label="${LETTERS[index]}"><span class="option-letter">${LETTERS[index]}</span>${escapeHtml(option)}</button>`).join("");
+  activeOptions = getOptions(question);
+  $("#options").innerHTML = activeOptions.map((option, index) => `<button class="option" data-answer="${escapeHtml(option)}" data-label="${LETTERS[index]}"><span class="option-letter">${LETTERS[index]}</span>${escapeHtml(option)}</button>`).join("");
   $("#feedback").hidden = true;
   $("#feedback").className = "feedback";
   $("#nextRow").hidden = true;
@@ -295,10 +301,8 @@ function renderQuestion() {
 
 function showOptionMeaning(option, label) {
   const question = currentRound[cursor];
-  const isCorrect = normalize(option) === normalize(question.answer);
   $$(".option").forEach((button) => button.classList.toggle("gloss-active", button.dataset.answer === option));
-  const panel = $("#optionMeaning");
-  if (panel) panel.innerHTML = optionMeaningMarkup(option, label, isCorrect);
+  $$(".option-meaning-card").forEach((card) => card.classList.toggle("gloss-active", card.dataset.answer === option));
 }
 
 function answerQuestion(chosen) {
@@ -340,8 +344,11 @@ function answerQuestion(chosen) {
     </div>
     <div class="why-box"><span>为什么是它？</span><p>${escapeHtml(whyFor(question))}</p></div>
     ${provenanceMarkup(question)}
-    <div id="optionMeaning" class="option-meaning"></div>
-    <p class="option-hint">想看其他干扰项的中文意思？现在可直接点选项卡。</p>`;
+    <section class="all-option-meanings" aria-label="全部选项中文释义">
+      <div class="all-option-meanings-heading">四个选项的中文意思</div>
+      <div class="option-meanings-list">${activeOptions.map((option, index) => optionMeaningMarkup(option, LETTERS[index], normalize(option) === normalize(question.answer))).join("")}</div>
+    </section>
+    <p class="option-hint">所有选项的释义已完整展示；点击任一选项可高亮对应释义。</p>`;
   const correctButton = $$(".option").find((button) => normalize(button.dataset.answer) === normalize(question.answer));
   showOptionMeaning(question.answer, correctButton?.dataset.label || "");
   $("#nextRow").hidden = false;
@@ -413,9 +420,39 @@ function wireInterface() {
   });
 }
 
+async function loadMeaningMap() {
+  const indexResponse = await fetch("./data/meanings-index.json");
+  if (!indexResponse.ok) throw new Error("meaning index unavailable");
+  const index = await indexResponse.json();
+  if (!Array.isArray(index.shards) || !index.shards.length) throw new Error("meaning index is empty");
+  const shards = await Promise.all(index.shards.map(async (path) => {
+    const response = await fetch(path);
+    if (!response.ok) throw new Error(`meaning shard unavailable: ${path}`);
+    return response.json();
+  }));
+  meaningMap = Object.assign(Object.create(null), ...shards);
+  if (Number(index.count) !== Object.keys(meaningMap).length) throw new Error("meaning data is incomplete");
+}
+
+function assertMeaningCoverage() {
+  const visibleExpressions = [
+    ...questions.flatMap((question) => [question.prompt, question.answer]),
+    ...Object.values(semanticSets).flat()
+  ];
+  const missing = [...new Set(visibleExpressions.filter((value) => !hasMeaning(value)))];
+  if (missing.length) throw new Error(`missing meanings: ${missing.slice(0, 5).join(", ")}`);
+}
+
 async function init() {
   const response = await fetch("./data/questions.json");
-  questions = await response.json();
+  if (!response.ok) throw new Error("question bank unavailable");
+  questions = (await response.json()).map((question) => ({
+    ...question,
+    prompt: repairText(question.prompt),
+    answer: repairText(question.answer)
+  }));
+  await loadMeaningMap();
+  assertMeaningCoverage();
   try {
     const provenanceResponse = await fetch("./data/provenance-groups.json");
     if (!provenanceResponse.ok) throw new Error("provenance index unavailable");
@@ -430,7 +467,8 @@ async function init() {
   wireInterface();
 }
 
-init().catch(() => {
-  document.body.innerHTML = "<main style='padding:40px;font-family:sans-serif'>题库加载失败，请刷新页面后重试。</main>";
+init().catch((error) => {
+  console.error(error);
+  document.body.innerHTML = "<main style='padding:40px;font-family:sans-serif'>题库或词义数据未能完整加载，请刷新页面后重试。</main>";
 });
 

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "count": 1906,
+  "shards": [
+    "./data/meanings/001.json",
+    "./data/meanings/002.json",
+    "./data/meanings/003.json",
+    "./data/meanings/004.json",
+    "./data/meanings/005.json",
+    "./data/meanings/006.json",
+    "./data/meanings/007.json",
+    "./data/meanings/008.json",
+    "./data/meanings/009.json",
+    "./data/meanings/010.json",
+    "./data/meanings/011.json"
+  ]
+}
