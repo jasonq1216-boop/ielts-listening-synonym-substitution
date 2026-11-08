@@ -1,0 +1,6710 @@
+[
+  {
+    "id": 1,
+    "prompt": "be of value",
+    "answer": "be of interest",
+    "page": 3
+  },
+  {
+    "id": 2,
+    "prompt": "impressive",
+    "answer": "struck by",
+    "page": 3
+  },
+  {
+    "id": 3,
+    "prompt": "impressive",
+    "answer": "sheer",
+    "page": 3
+  },
+  {
+    "id": 4,
+    "prompt": "size",
+    "answer": "volume",
+    "page": 3
+  },
+  {
+    "id": 5,
+    "prompt": "be of value",
+    "answer": "beneficial",
+    "page": 3
+  },
+  {
+    "id": 6,
+    "prompt": "weakness",
+    "answer": "weaker side",
+    "page": 3
+  },
+  {
+    "id": 7,
+    "prompt": "tactics",
+    "answer": "strategies",
+    "page": 3
+  },
+  {
+    "id": 8,
+    "prompt": "coach",
+    "answer": "trainer",
+    "page": 3
+  },
+  {
+    "id": 9,
+    "prompt": "underestimate",
+    "answer": "reluctant to make use of…",
+    "page": 3
+  },
+  {
+    "id": 10,
+    "prompt": "science",
+    "answer": "insights that scientists give",
+    "page": 3
+  },
+  {
+    "id": 11,
+    "prompt": "show",
+    "answer": "find",
+    "page": 3
+  },
+  {
+    "id": 12,
+    "prompt": "greater",
+    "answer": "high levels of",
+    "page": 3
+  },
+  {
+    "id": 13,
+    "prompt": "greater",
+    "answer": "more",
+    "page": 3
+  },
+  {
+    "id": 14,
+    "prompt": "youth",
+    "answer": "younger",
+    "page": 3
+  },
+  {
+    "id": 15,
+    "prompt": "larger",
+    "answer": "bigger",
+    "page": 3
+  },
+  {
+    "id": 16,
+    "prompt": "single",
+    "answer": "one",
+    "page": 3
+  },
+  {
+    "id": 17,
+    "prompt": "field",
+    "answer": "area",
+    "page": 3
+  },
+  {
+    "id": 18,
+    "prompt": "too late",
+    "answer": "much later",
+    "page": 3
+  },
+  {
+    "id": 19,
+    "prompt": "important",
+    "answer": "central",
+    "page": 3
+  },
+  {
+    "id": 20,
+    "prompt": "remove",
+    "answer": "delete",
+    "page": 3
+  },
+  {
+    "id": 21,
+    "prompt": "change",
+    "answer": "replace",
+    "page": 3
+  },
+  {
+    "id": 22,
+    "prompt": "location",
+    "answer": "located",
+    "page": 3
+  },
+  {
+    "id": 23,
+    "prompt": "coast",
+    "answer": "beach",
+    "page": 3
+  },
+  {
+    "id": 24,
+    "prompt": "high season",
+    "answer": "peak time",
+    "page": 3
+  },
+  {
+    "id": 25,
+    "prompt": "in advance",
+    "answer": "ahead of schedule",
+    "page": 3
+  },
+  {
+    "id": 26,
+    "prompt": "cheaper",
+    "answer": "lower",
+    "page": 3
+  },
+  {
+    "id": 27,
+    "prompt": "a variety of",
+    "answer": "a list of",
+    "page": 3
+  },
+  {
+    "id": 28,
+    "prompt": "house",
+    "answer": "home",
+    "page": 4
+  },
+  {
+    "id": 29,
+    "prompt": "straight away",
+    "answer": "immediately",
+    "page": 4
+  },
+  {
+    "id": 30,
+    "prompt": "turn off",
+    "answer": "switch off",
+    "page": 4
+  },
+  {
+    "id": 31,
+    "prompt": "pleased",
+    "answer": "thrill",
+    "page": 4
+  },
+  {
+    "id": 32,
+    "prompt": "reduction in price",
+    "answer": "discount",
+    "page": 4
+  },
+  {
+    "id": 33,
+    "prompt": "reduction",
+    "answer": "deduction",
+    "page": 4
+  },
+  {
+    "id": 34,
+    "prompt": "difficulty",
+    "answer": "problems/cons",
+    "page": 4
+  },
+  {
+    "id": 35,
+    "prompt": "hard to",
+    "answer": "cannot",
+    "page": 4
+  },
+  {
+    "id": 36,
+    "prompt": "accurately",
+    "answer": "correctly",
+    "page": 4
+  },
+  {
+    "id": 37,
+    "prompt": "unsuitable",
+    "answer": "ugly",
+    "page": 4
+  },
+  {
+    "id": 38,
+    "prompt": "repair",
+    "answer": "fix",
+    "page": 4
+  },
+  {
+    "id": 39,
+    "prompt": "leaking taps",
+    "answer": "dripping taps",
+    "page": 4
+  },
+  {
+    "id": 40,
+    "prompt": "ideal",
+    "answer": "efficient",
+    "page": 4
+  },
+  {
+    "id": 41,
+    "prompt": "movie",
+    "answer": "film",
+    "page": 4
+  },
+  {
+    "id": 42,
+    "prompt": "cost",
+    "answer": "price",
+    "page": 4
+  },
+  {
+    "id": 43,
+    "prompt": "sunny days",
+    "answer": "sun is out",
+    "page": 4
+  },
+  {
+    "id": 44,
+    "prompt": "previous",
+    "answer": "last year",
+    "page": 4
+  },
+  {
+    "id": 45,
+    "prompt": "worry about",
+    "answer": "concern",
+    "page": 4
+  },
+  {
+    "id": 46,
+    "prompt": "concern",
+    "answer": "frightened",
+    "page": 4
+  },
+  {
+    "id": 47,
+    "prompt": "forget",
+    "answer": "wouldn’tremember",
+    "page": 4
+  },
+  {
+    "id": 48,
+    "prompt": "encourage",
+    "answer": "fire up/inspirational",
+    "page": 4
+  },
+  {
+    "id": 49,
+    "prompt": "see",
+    "answer": "meet",
+    "page": 4
+  },
+  {
+    "id": 50,
+    "prompt": "review",
+    "answer": "look through",
+    "page": 4
+  },
+  {
+    "id": 51,
+    "prompt": "recommend",
+    "answer": "advise",
+    "page": 4
+  },
+  {
+    "id": 52,
+    "prompt": "old dissertations",
+    "answer": "previous year dissertations",
+    "page": 4
+  },
+  {
+    "id": 53,
+    "prompt": "extra books",
+    "answer": "15 instead of usual 10 books",
+    "page": 4
+  },
+  {
+    "id": 54,
+    "prompt": "collaborate",
+    "answer": "collaboration",
+    "page": 4
+  },
+  {
+    "id": 55,
+    "prompt": "vacation",
+    "answer": "holiday",
+    "page": 4
+  },
+  {
+    "id": 56,
+    "prompt": "web",
+    "answer": "internet",
+    "page": 4
+  },
+  {
+    "id": 57,
+    "prompt": "safety",
+    "answer": "danger, accident, risk",
+    "page": 5
+  },
+  {
+    "id": 58,
+    "prompt": "boot",
+    "answer": "footwear",
+    "page": 5
+  },
+  {
+    "id": 59,
+    "prompt": "comfortable",
+    "answer": "fit better",
+    "page": 5
+  },
+  {
+    "id": 60,
+    "prompt": "destination",
+    "answer": "view",
+    "page": 5
+  },
+  {
+    "id": 61,
+    "prompt": "film",
+    "answer": "documentary",
+    "page": 5
+  },
+  {
+    "id": 62,
+    "prompt": "skill",
+    "answer": "skilfully, technique",
+    "page": 5
+  },
+  {
+    "id": 63,
+    "prompt": "combine with",
+    "answer": "apply into",
+    "page": 5
+  },
+  {
+    "id": 64,
+    "prompt": "other activities",
+    "answer": "climbing",
+    "page": 5
+  },
+  {
+    "id": 65,
+    "prompt": "time",
+    "answer": "deadline, due",
+    "page": 5
+  },
+  {
+    "id": 66,
+    "prompt": "manage time",
+    "answer": "rationalise time",
+    "page": 5
+  },
+  {
+    "id": 67,
+    "prompt": "review",
+    "answer": "revisit",
+    "page": 5
+  },
+  {
+    "id": 68,
+    "prompt": "regularly",
+    "answer": "on a regular basis",
+    "page": 5
+  },
+  {
+    "id": 69,
+    "prompt": "school supporting staff",
+    "answer": "librarian",
+    "page": 5
+  },
+  {
+    "id": 70,
+    "prompt": "teaching staff",
+    "answer": "faculty members",
+    "page": 5
+  },
+  {
+    "id": 71,
+    "prompt": "help",
+    "answer": "support, feedback",
+    "page": 5
+  },
+  {
+    "id": 72,
+    "prompt": "don’tbe unrealistic",
+    "answer": "be realistic",
+    "page": 5
+  },
+  {
+    "id": 73,
+    "prompt": "must",
+    "answer": "have to",
+    "page": 5
+  },
+  {
+    "id": 74,
+    "prompt": "booking",
+    "answer": "make a reservation",
+    "page": 5
+  },
+  {
+    "id": 75,
+    "prompt": "option",
+    "answer": "whether…or…",
+    "page": 5
+  },
+  {
+    "id": 76,
+    "prompt": "bicycles",
+    "answer": "bikes",
+    "page": 5
+  },
+  {
+    "id": 77,
+    "prompt": "as well as",
+    "answer": "both…and…",
+    "page": 6
+  },
+  {
+    "id": 78,
+    "prompt": "fund",
+    "answer": "donation",
+    "page": 6
+  },
+  {
+    "id": 79,
+    "prompt": "building",
+    "answer": "construction",
+    "page": 6
+  },
+  {
+    "id": 80,
+    "prompt": "reduce",
+    "answer": "prevent",
+    "page": 6
+  },
+  {
+    "id": 81,
+    "prompt": "increased",
+    "answer": "heavy",
+    "page": 6
+  },
+  {
+    "id": 82,
+    "prompt": "monitor",
+    "answer": "measure",
+    "page": 6
+  },
+  {
+    "id": 83,
+    "prompt": "create",
+    "answer": "develop",
+    "page": 6
+  },
+  {
+    "id": 84,
+    "prompt": "growth",
+    "answer": "increase",
+    "page": 6
+  },
+  {
+    "id": 85,
+    "prompt": "reduce",
+    "answer": "decrease",
+    "page": 6
+  },
+  {
+    "id": 86,
+    "prompt": "not",
+    "answer": "inaccessible/cannot",
+    "page": 6
+  },
+  {
+    "id": 87,
+    "prompt": "known as",
+    "answer": "dubbed as",
+    "page": 6
+  },
+  {
+    "id": 88,
+    "prompt": "vacation entitlement",
+    "answer": "entitlement to vacation",
+    "page": 6
+  },
+  {
+    "id": 89,
+    "prompt": "keep in touch with",
+    "answer": "contact",
+    "page": 6
+  },
+  {
+    "id": 90,
+    "prompt": "documents",
+    "answer": "passport, birth certificate, bank statement",
+    "page": 6
+  },
+  {
+    "id": 91,
+    "prompt": "confirm",
+    "answer": "as a confirmation of",
+    "page": 6
+  },
+  {
+    "id": 92,
+    "prompt": "extra",
+    "answer": "additional",
+    "page": 6
+  },
+  {
+    "id": 93,
+    "prompt": "fee",
+    "answer": "charges",
+    "page": 6
+  },
+  {
+    "id": 94,
+    "prompt": "grade",
+    "answer": "score",
+    "page": 6
+  },
+  {
+    "id": 95,
+    "prompt": "warning",
+    "answer": "alarm",
+    "page": 6
+  },
+  {
+    "id": 96,
+    "prompt": "indicator",
+    "answer": "light",
+    "page": 6
+  },
+  {
+    "id": 97,
+    "prompt": "antique",
+    "answer": "old",
+    "page": 7
+  },
+  {
+    "id": 98,
+    "prompt": "address",
+    "answer": "where",
+    "page": 7
+  },
+  {
+    "id": 99,
+    "prompt": "approximately",
+    "answer": "about",
+    "page": 7
+  },
+  {
+    "id": 100,
+    "prompt": "check",
+    "answer": "ask",
+    "page": 7
+  },
+  {
+    "id": 101,
+    "prompt": "questions",
+    "answer": "not sure what to do",
+    "page": 7
+  },
+  {
+    "id": 102,
+    "prompt": "plans",
+    "answer": "ambitions",
+    "page": 7
+  },
+  {
+    "id": 103,
+    "prompt": "progress",
+    "answer": "improvements",
+    "page": 7
+  },
+  {
+    "id": 104,
+    "prompt": "internet",
+    "answer": "online",
+    "page": 7
+  },
+  {
+    "id": 105,
+    "prompt": "wear",
+    "answer": "dress",
+    "page": 7
+  },
+  {
+    "id": 106,
+    "prompt": "trainer",
+    "answer": "shoes",
+    "page": 7
+  },
+  {
+    "id": 107,
+    "prompt": "food",
+    "answer": "meals/salads/snacks",
+    "page": 7
+  },
+  {
+    "id": 108,
+    "prompt": "encouraged",
+    "answer": "preferable",
+    "page": 7
+  },
+  {
+    "id": 109,
+    "prompt": "restrictions",
+    "answer": "…unlimited…but don’tuse for…",
+    "page": 7
+  },
+  {
+    "id": 110,
+    "prompt": "against",
+    "answer": "no/don’t",
+    "page": 7
+  },
+  {
+    "id": 111,
+    "prompt": "surprise",
+    "answer": "I didn’trealize that before",
+    "page": 7
+  },
+  {
+    "id": 112,
+    "prompt": "pollution",
+    "answer": "pollutant",
+    "page": 7
+  },
+  {
+    "id": 113,
+    "prompt": "climate change",
+    "answer": "global warming",
+    "page": 7
+  },
+  {
+    "id": 114,
+    "prompt": "money",
+    "answer": "pay",
+    "page": 7
+  },
+  {
+    "id": 115,
+    "prompt": "new",
+    "answer": "replace",
+    "page": 7
+  },
+  {
+    "id": 116,
+    "prompt": "coordination",
+    "answer": "work together",
+    "page": 7
+  },
+  {
+    "id": 117,
+    "prompt": "online",
+    "answer": "websites",
+    "page": 7
+  },
+  {
+    "id": 118,
+    "prompt": "visual",
+    "answer": "see",
+    "page": 7
+  },
+  {
+    "id": 119,
+    "prompt": "short",
+    "answer": "not too long",
+    "page": 7
+  },
+  {
+    "id": 120,
+    "prompt": "growth in",
+    "answer": "increasing",
+    "page": 7
+  },
+  {
+    "id": 121,
+    "prompt": "Constant source",
+    "answer": "the source is constant",
+    "page": 7
+  },
+  {
+    "id": 122,
+    "prompt": "every",
+    "answer": "any",
+    "page": 7
+  },
+  {
+    "id": 123,
+    "prompt": "floor of the ocean",
+    "answer": "ocean floor",
+    "page": 7
+  },
+  {
+    "id": 124,
+    "prompt": "more than",
+    "answer": "rather than…, …",
+    "page": 7
+  },
+  {
+    "id": 125,
+    "prompt": "within",
+    "answer": "in",
+    "page": 7
+  },
+  {
+    "id": 126,
+    "prompt": "without",
+    "answer": "no",
+    "page": 7
+  },
+  {
+    "id": 127,
+    "prompt": "affect",
+    "answer": "disturb",
+    "page": 8
+  },
+  {
+    "id": 128,
+    "prompt": "injured",
+    "answer": "hurt",
+    "page": 9
+  },
+  {
+    "id": 129,
+    "prompt": "building",
+    "answer": "house",
+    "page": 9
+  },
+  {
+    "id": 130,
+    "prompt": "construct",
+    "answer": "make",
+    "page": 9
+  },
+  {
+    "id": 131,
+    "prompt": "entertainment",
+    "answer": "amusement",
+    "page": 9
+  },
+  {
+    "id": 132,
+    "prompt": "historical",
+    "answer": "different periods in the past",
+    "page": 9
+  },
+  {
+    "id": 133,
+    "prompt": "talking",
+    "answer": "conversation",
+    "page": 9
+  },
+  {
+    "id": 134,
+    "prompt": "exhibition",
+    "answer": "display",
+    "page": 9
+  },
+  {
+    "id": 135,
+    "prompt": "surprising",
+    "answer": "amazing",
+    "page": 9
+  },
+  {
+    "id": 136,
+    "prompt": "old",
+    "answer": "less recent",
+    "page": 9
+  },
+  {
+    "id": 137,
+    "prompt": "isolated",
+    "answer": "couldn’tescape",
+    "page": 9
+  },
+  {
+    "id": 138,
+    "prompt": "exact",
+    "answer": "precise",
+    "page": 9
+  },
+  {
+    "id": 139,
+    "prompt": "extinction",
+    "answer": "extinct",
+    "page": 9
+  },
+  {
+    "id": 140,
+    "prompt": "interactive",
+    "answer": "…with audience…",
+    "page": 9
+  },
+  {
+    "id": 141,
+    "prompt": "personal",
+    "answer": "your own",
+    "page": 9
+  },
+  {
+    "id": 142,
+    "prompt": "opinion",
+    "answer": "viewpoint",
+    "page": 9
+  },
+  {
+    "id": 143,
+    "prompt": "contact",
+    "answer": "get in touch with",
+    "page": 9
+  },
+  {
+    "id": 144,
+    "prompt": "make notes",
+    "answer": "write down",
+    "page": 9
+  },
+  {
+    "id": 145,
+    "prompt": "detailed",
+    "answer": "all",
+    "page": 9
+  },
+  {
+    "id": 146,
+    "prompt": "check",
+    "answer": "be sure",
+    "page": 9
+  },
+  {
+    "id": 147,
+    "prompt": "timing",
+    "answer": "not overrun",
+    "page": 9
+  },
+  {
+    "id": 148,
+    "prompt": "culture",
+    "answer": "civilization",
+    "page": 9
+  },
+  {
+    "id": 149,
+    "prompt": "invent",
+    "answer": "develop",
+    "page": 9
+  },
+  {
+    "id": 150,
+    "prompt": "ceremony",
+    "answer": "rite",
+    "page": 9
+  },
+  {
+    "id": 151,
+    "prompt": "B and other A",
+    "answer": "A such as B",
+    "page": 9
+  },
+  {
+    "id": 152,
+    "prompt": "e.g. apples and other fruits",
+    "answer": "e.g. fruits such as apples",
+    "page": 9
+  },
+  {
+    "id": 153,
+    "prompt": "to",
+    "answer": "in order to",
+    "page": 9
+  },
+  {
+    "id": 154,
+    "prompt": "friendly",
+    "answer": "kindly",
+    "page": 9
+  },
+  {
+    "id": 155,
+    "prompt": "interpret",
+    "answer": "draw conclusion",
+    "page": 9
+  },
+  {
+    "id": 156,
+    "prompt": "using",
+    "answer": "based on",
+    "page": 9
+  },
+  {
+    "id": 157,
+    "prompt": "A made up of B",
+    "answer": "divide A into B",
+    "page": 9
+  },
+  {
+    "id": 158,
+    "prompt": "connected with",
+    "answer": "associated with",
+    "page": 10
+  },
+  {
+    "id": 159,
+    "prompt": "color",
+    "answer": "red",
+    "page": 10
+  },
+  {
+    "id": 160,
+    "prompt": "recognize",
+    "answer": "see",
+    "page": 10
+  },
+  {
+    "id": 161,
+    "prompt": "value",
+    "answer": "need",
+    "page": 10
+  },
+  {
+    "id": 162,
+    "prompt": "for the first time",
+    "answer": "began to…",
+    "page": 10
+  },
+  {
+    "id": 163,
+    "prompt": "identify",
+    "answer": "discover",
+    "page": 10
+  },
+  {
+    "id": 164,
+    "prompt": "movements",
+    "answer": "travel from west to east",
+    "page": 10
+  },
+  {
+    "id": 165,
+    "prompt": "per head",
+    "answer": "per person",
+    "page": 11
+  },
+  {
+    "id": 166,
+    "prompt": "cost",
+    "answer": "charge",
+    "page": 11
+  },
+  {
+    "id": 167,
+    "prompt": "rooftop",
+    "answer": "up on the roof",
+    "page": 11
+  },
+  {
+    "id": 168,
+    "prompt": "complimentary",
+    "answer": "free",
+    "page": 11
+  },
+  {
+    "id": 169,
+    "prompt": "near",
+    "answer": "not very far from",
+    "page": 11
+  },
+  {
+    "id": 170,
+    "prompt": "restaurant",
+    "answer": "place to eat",
+    "page": 11
+  },
+  {
+    "id": 171,
+    "prompt": "decorating",
+    "answer": "painting and wallpapering",
+    "page": 11
+  },
+  {
+    "id": 172,
+    "prompt": "meals",
+    "answer": "cooking",
+    "page": 11
+  },
+  {
+    "id": 173,
+    "prompt": "childcare",
+    "answer": "babysitting",
+    "page": 11
+  },
+  {
+    "id": 174,
+    "prompt": "A boosts …",
+    "answer": "A is valuable",
+    "page": 11
+  },
+  {
+    "id": 175,
+    "prompt": "employment",
+    "answer": "apply for jobs",
+    "page": 11
+  },
+  {
+    "id": 176,
+    "prompt": "overcome",
+    "answer": "doesn’tlet…stop her",
+    "page": 11
+  },
+  {
+    "id": 177,
+    "prompt": "physical difficulties",
+    "answer": "has difficulties walking herself",
+    "page": 11
+  },
+  {
+    "id": 178,
+    "prompt": "communication",
+    "answer": "express and understand",
+    "page": 11
+  },
+  {
+    "id": 179,
+    "prompt": "independently",
+    "answer": "…themselves",
+    "page": 11
+  },
+  {
+    "id": 180,
+    "prompt": "escape isolation",
+    "answer": "go out",
+    "page": 11
+  },
+  {
+    "id": 181,
+    "prompt": "remember past time",
+    "answer": "take…back to their youth",
+    "page": 11
+  },
+  {
+    "id": 182,
+    "prompt": "start a new…",
+    "answer": "try…",
+    "page": 11
+  },
+  {
+    "id": 183,
+    "prompt": "around",
+    "answer": "about",
+    "page": 11
+  },
+  {
+    "id": 184,
+    "prompt": "invite",
+    "answer": "ask to",
+    "page": 11
+  },
+  {
+    "id": 185,
+    "prompt": "play",
+    "answer": "perform",
+    "page": 11
+  },
+  {
+    "id": 186,
+    "prompt": "listen",
+    "answer": "play a recording",
+    "page": 11
+  },
+  {
+    "id": 187,
+    "prompt": "discuss",
+    "answer": "talk about",
+    "page": 11
+  },
+  {
+    "id": 188,
+    "prompt": "A will attend…",
+    "answer": "take A to…",
+    "page": 11
+  },
+  {
+    "id": 189,
+    "prompt": "unhelpful",
+    "answer": "make…difficult",
+    "page": 11
+  },
+  {
+    "id": 190,
+    "prompt": "suggestions",
+    "answer": "say what others should do",
+    "page": 11
+  },
+  {
+    "id": 191,
+    "prompt": "health problem",
+    "answer": "…breathing difficulties",
+    "page": 11
+  },
+  {
+    "id": 192,
+    "prompt": "problem",
+    "answer": "difficulties",
+    "page": 11
+  },
+  {
+    "id": 193,
+    "prompt": "not",
+    "answer": "never",
+    "page": 11
+  },
+  {
+    "id": 194,
+    "prompt": "mix with",
+    "answer": "interact with",
+    "page": 11
+  },
+  {
+    "id": 195,
+    "prompt": "student",
+    "answer": "people",
+    "page": 11
+  },
+  {
+    "id": 196,
+    "prompt": "learn",
+    "answer": "study",
+    "page": 11
+  },
+  {
+    "id": 197,
+    "prompt": "a great deal of",
+    "answer": "full of",
+    "page": 11
+  },
+  {
+    "id": 198,
+    "prompt": "include",
+    "answer": "there is",
+    "page": 11
+  },
+  {
+    "id": 199,
+    "prompt": "celebrate",
+    "answer": "as a celebration of",
+    "page": 12
+  },
+  {
+    "id": 200,
+    "prompt": "cultural diversity",
+    "answer": "the diversity of culture",
+    "page": 12
+  },
+  {
+    "id": 201,
+    "prompt": "prominent",
+    "answer": "well known",
+    "page": 12
+  },
+  {
+    "id": 202,
+    "prompt": "festival",
+    "answer": "concert",
+    "page": 12
+  },
+  {
+    "id": 203,
+    "prompt": "view",
+    "answer": "see",
+    "page": 13
+  },
+  {
+    "id": 204,
+    "prompt": "give a speech",
+    "answer": "make a speech",
+    "page": 13
+  },
+  {
+    "id": 205,
+    "prompt": "while",
+    "answer": "during",
+    "page": 13
+  },
+  {
+    "id": 206,
+    "prompt": "eating",
+    "answer": "meal",
+    "page": 13
+  },
+  {
+    "id": 207,
+    "prompt": "problems",
+    "answer": "go wrong",
+    "page": 13
+  },
+  {
+    "id": 208,
+    "prompt": "at no extra charge",
+    "answer": "included in cost of…",
+    "page": 13
+  },
+  {
+    "id": 209,
+    "prompt": "payment",
+    "answer": "charge",
+    "page": 13
+  },
+  {
+    "id": 210,
+    "prompt": "not available",
+    "answer": "closed",
+    "page": 13
+  },
+  {
+    "id": 211,
+    "prompt": "down",
+    "answer": "drop",
+    "page": 13
+  },
+  {
+    "id": 212,
+    "prompt": "beginner",
+    "answer": "have never been…before",
+    "page": 13
+  },
+  {
+    "id": 213,
+    "prompt": "food",
+    "answer": "sandwiches",
+    "page": 13
+  },
+  {
+    "id": 214,
+    "prompt": "no charge",
+    "answer": "free",
+    "page": 13
+  },
+  {
+    "id": 215,
+    "prompt": "have a dip",
+    "answer": "swimming",
+    "page": 13
+  },
+  {
+    "id": 216,
+    "prompt": "fully booked",
+    "answer": "no places left",
+    "page": 13
+  },
+  {
+    "id": 217,
+    "prompt": "in advance",
+    "answer": "it’sno good learning it until the last minutes",
+    "page": 13
+  },
+  {
+    "id": 218,
+    "prompt": "cast members",
+    "answer": "performers",
+    "page": 13
+  },
+  {
+    "id": 219,
+    "prompt": "cutlery",
+    "answer": "knives and forks",
+    "page": 13
+  },
+  {
+    "id": 220,
+    "prompt": "not",
+    "answer": "instead",
+    "page": 13
+  },
+  {
+    "id": 221,
+    "prompt": "interesting",
+    "answer": "fascinating",
+    "page": 13
+  },
+  {
+    "id": 222,
+    "prompt": "author",
+    "answer": "writer",
+    "page": 13
+  },
+  {
+    "id": 223,
+    "prompt": "realize",
+    "answer": "be conscious of",
+    "page": 13
+  },
+  {
+    "id": 224,
+    "prompt": "value",
+    "answer": "message",
+    "page": 13
+  },
+  {
+    "id": 225,
+    "prompt": "convey",
+    "answer": "teach",
+    "page": 13
+  },
+  {
+    "id": 226,
+    "prompt": "start",
+    "answer": "have a go at",
+    "page": 13
+  },
+  {
+    "id": 227,
+    "prompt": "surprised",
+    "answer": "amazed",
+    "page": 13
+  },
+  {
+    "id": 228,
+    "prompt": "how few",
+    "answer": "how many",
+    "page": 13
+  },
+  {
+    "id": 229,
+    "prompt": "hard",
+    "answer": "struggle with/give up",
+    "page": 13
+  },
+  {
+    "id": 230,
+    "prompt": "A inspire B",
+    "answer": "A is the basis of B",
+    "page": 13
+  },
+  {
+    "id": 231,
+    "prompt": "original",
+    "answer": "earlier",
+    "page": 13
+  },
+  {
+    "id": 232,
+    "prompt": "start a new genre",
+    "answer": "the first…",
+    "page": 13
+  },
+  {
+    "id": 233,
+    "prompt": "unlikely",
+    "answer": "hardly what you’dexpect for",
+    "page": 13
+  },
+  {
+    "id": 234,
+    "prompt": "large",
+    "answer": "half-tonne",
+    "page": 13
+  },
+  {
+    "id": 235,
+    "prompt": "structures",
+    "answer": "buildings",
+    "page": 13
+  },
+  {
+    "id": 236,
+    "prompt": "e.g.",
+    "answer": "for instance,",
+    "page": 14
+  },
+  {
+    "id": 237,
+    "prompt": "create",
+    "answer": "make",
+    "page": 14
+  },
+  {
+    "id": 238,
+    "prompt": "better",
+    "answer": "superior",
+    "page": 14
+  },
+  {
+    "id": 239,
+    "prompt": "supplies",
+    "answer": "goods",
+    "page": 14
+  },
+  {
+    "id": 240,
+    "prompt": "or",
+    "answer": "and",
+    "page": 14
+  },
+  {
+    "id": 241,
+    "prompt": "not…until afternoon",
+    "answer": "in the afternoon",
+    "page": 15
+  },
+  {
+    "id": 242,
+    "prompt": "one",
+    "answer": "a",
+    "page": 15
+  },
+  {
+    "id": 243,
+    "prompt": "give you",
+    "answer": "you receive",
+    "page": 15
+  },
+  {
+    "id": 244,
+    "prompt": "longer than",
+    "answer": "years…more than",
+    "page": 15
+  },
+  {
+    "id": 245,
+    "prompt": "most",
+    "answer": "almost any other",
+    "page": 15
+  },
+  {
+    "id": 246,
+    "prompt": "cover",
+    "answer": "include",
+    "page": 15
+  },
+  {
+    "id": 247,
+    "prompt": "pay",
+    "answer": "fee",
+    "page": 15
+  },
+  {
+    "id": 248,
+    "prompt": "transfer",
+    "answer": "change",
+    "page": 15
+  },
+  {
+    "id": 249,
+    "prompt": "view",
+    "answer": "look",
+    "page": 15
+  },
+  {
+    "id": 250,
+    "prompt": "provide",
+    "answer": "give",
+    "page": 15
+  },
+  {
+    "id": 251,
+    "prompt": "ride",
+    "answer": "take",
+    "page": 15
+  },
+  {
+    "id": 252,
+    "prompt": "former",
+    "answer": "used to be",
+    "page": 15
+  },
+  {
+    "id": 253,
+    "prompt": "outgoing",
+    "answer": "sociable and confident",
+    "page": 15
+  },
+  {
+    "id": 254,
+    "prompt": "selfish",
+    "answer": "think the world revolves around them",
+    "page": 15
+  },
+  {
+    "id": 255,
+    "prompt": "independent",
+    "answer": "do things for themselves",
+    "page": 15
+  },
+  {
+    "id": 256,
+    "prompt": "introverted",
+    "answer": "shy",
+    "page": 15
+  },
+  {
+    "id": 257,
+    "prompt": "co-operative",
+    "answer": "easier to get on with",
+    "page": 15
+  },
+  {
+    "id": 258,
+    "prompt": "caring",
+    "answer": "nurturing",
+    "page": 15
+  },
+  {
+    "id": 259,
+    "prompt": "oldest",
+    "answer": "eldest",
+    "page": 15
+  },
+  {
+    "id": 260,
+    "prompt": "success",
+    "answer": "achievement",
+    "page": 15
+  },
+  {
+    "id": 261,
+    "prompt": "neglect",
+    "answer": "didn’ttake into consideration",
+    "page": 15
+  },
+  {
+    "id": 262,
+    "prompt": "extra",
+    "answer": "more",
+    "page": 15
+  },
+  {
+    "id": 263,
+    "prompt": "stand up for",
+    "answer": "defend",
+    "page": 15
+  },
+  {
+    "id": 264,
+    "prompt": "tolerant",
+    "answer": "put up with",
+    "page": 15
+  },
+  {
+    "id": 265,
+    "prompt": "sorry",
+    "answer": "apologize",
+    "page": 15
+  },
+  {
+    "id": 266,
+    "prompt": "importance",
+    "answer": "important",
+    "page": 15
+  },
+  {
+    "id": 267,
+    "prompt": "give",
+    "answer": "provide",
+    "page": 15
+  },
+  {
+    "id": 268,
+    "prompt": "creatures",
+    "answer": "species",
+    "page": 15
+  },
+  {
+    "id": 269,
+    "prompt": "A provides B",
+    "answer": "B extracted from A",
+    "page": 15
+  },
+  {
+    "id": 270,
+    "prompt": "construction of",
+    "answer": "making…",
+    "page": 15
+  },
+  {
+    "id": 271,
+    "prompt": "feed on",
+    "answer": "eat",
+    "page": 16
+  },
+  {
+    "id": 272,
+    "prompt": "result in the growth of…",
+    "answer": "encourage…to grow…",
+    "page": 16
+  },
+  {
+    "id": 273,
+    "prompt": "available to",
+    "answer": "needed by",
+    "page": 16
+  },
+  {
+    "id": 274,
+    "prompt": "result in",
+    "answer": "lead to",
+    "page": 16
+  },
+  {
+    "id": 275,
+    "prompt": "environment",
+    "answer": "provide shades",
+    "page": 16
+  },
+  {
+    "id": 276,
+    "prompt": "called",
+    "answer": "name",
+    "page": 17
+  },
+  {
+    "id": 277,
+    "prompt": "healthy food",
+    "answer": "food part of a healthy lifestyle",
+    "page": 17
+  },
+  {
+    "id": 278,
+    "prompt": "only",
+    "answer": "just for",
+    "page": 17
+  },
+  {
+    "id": 279,
+    "prompt": "make",
+    "answer": "create",
+    "page": 17
+  },
+  {
+    "id": 280,
+    "prompt": "lead by someone",
+    "answer": "leader",
+    "page": 17
+  },
+  {
+    "id": 281,
+    "prompt": "origin",
+    "answer": "originally",
+    "page": 17
+  },
+  {
+    "id": 282,
+    "prompt": "community",
+    "answer": "people living nearby",
+    "page": 17
+  },
+  {
+    "id": 283,
+    "prompt": "resident",
+    "answer": "local people",
+    "page": 17
+  },
+  {
+    "id": 284,
+    "prompt": "lead",
+    "answer": "organize",
+    "page": 17
+  },
+  {
+    "id": 285,
+    "prompt": "mainly",
+    "answer": "most of…",
+    "page": 17
+  },
+  {
+    "id": 286,
+    "prompt": "grow",
+    "answer": "plant",
+    "page": 17
+  },
+  {
+    "id": 287,
+    "prompt": "transformation",
+    "answer": "transforming",
+    "page": 17
+  },
+  {
+    "id": 288,
+    "prompt": "residents",
+    "answer": "people in the city",
+    "page": 17
+  },
+  {
+    "id": 289,
+    "prompt": "potential new students",
+    "answer": "students considering applying to study here",
+    "page": 17
+  },
+  {
+    "id": 290,
+    "prompt": "draw attention to",
+    "answer": "shock people into doing something",
+    "page": 17
+  },
+  {
+    "id": 291,
+    "prompt": "social problems",
+    "answer": "people live in awful condition",
+    "page": 17
+  },
+  {
+    "id": 292,
+    "prompt": "well-known",
+    "answer": "most people have heard of…",
+    "page": 17
+  },
+  {
+    "id": 293,
+    "prompt": "education",
+    "answer": "school/learn",
+    "page": 17
+  },
+  {
+    "id": 294,
+    "prompt": "travel",
+    "answer": "go to USA",
+    "page": 17
+  },
+  {
+    "id": 295,
+    "prompt": "entertainment",
+    "answer": "amusement/theatre",
+    "page": 17
+  },
+  {
+    "id": 296,
+    "prompt": "law",
+    "answer": "legal",
+    "page": 17
+  },
+  {
+    "id": 297,
+    "prompt": "wealth",
+    "answer": "fortune/rich",
+    "page": 17
+  },
+  {
+    "id": 298,
+    "prompt": "medicine",
+    "answer": "medical condition",
+    "page": 17
+  },
+  {
+    "id": 299,
+    "prompt": "women",
+    "answer": "she",
+    "page": 17
+  },
+  {
+    "id": 300,
+    "prompt": "life",
+    "answer": "live…living…married…",
+    "page": 17
+  },
+  {
+    "id": 301,
+    "prompt": "main priority",
+    "answer": "primarily",
+    "page": 17
+  },
+  {
+    "id": 302,
+    "prompt": "the supply of",
+    "answer": "resources",
+    "page": 17
+  },
+  {
+    "id": 303,
+    "prompt": "majority",
+    "answer": "most of",
+    "page": 17
+  },
+  {
+    "id": 304,
+    "prompt": "workforce",
+    "answer": "work",
+    "page": 17
+  },
+  {
+    "id": 305,
+    "prompt": "crop",
+    "answer": "cereal",
+    "page": 17
+  },
+  {
+    "id": 306,
+    "prompt": "land",
+    "answer": "field",
+    "page": 17
+  },
+  {
+    "id": 307,
+    "prompt": "difficult",
+    "answer": "problem",
+    "page": 18
+  },
+  {
+    "id": 308,
+    "prompt": "lack of",
+    "answer": "didn’thave access to",
+    "page": 18
+  },
+  {
+    "id": 309,
+    "prompt": "training",
+    "answer": "learn",
+    "page": 18
+  },
+  {
+    "id": 310,
+    "prompt": "place",
+    "answer": "area",
+    "page": 18
+  },
+  {
+    "id": 311,
+    "prompt": "breed",
+    "answer": "keep…",
+    "page": 18
+  },
+  {
+    "id": 312,
+    "prompt": "particularly",
+    "answer": "especially",
+    "page": 18
+  },
+  {
+    "id": 313,
+    "prompt": "make",
+    "answer": "produce",
+    "page": 19
+  },
+  {
+    "id": 314,
+    "prompt": "attend",
+    "answer": "go to",
+    "page": 19
+  },
+  {
+    "id": 315,
+    "prompt": "management of",
+    "answer": "manage",
+    "page": 19
+  },
+  {
+    "id": 316,
+    "prompt": "attention to",
+    "answer": "take care with",
+    "page": 19
+  },
+  {
+    "id": 317,
+    "prompt": "minimum of",
+    "answer": "at least",
+    "page": 19
+  },
+  {
+    "id": 318,
+    "prompt": "now",
+    "answer": "at the moment",
+    "page": 19
+  },
+  {
+    "id": 319,
+    "prompt": "close",
+    "answer": "block off",
+    "page": 19
+  },
+  {
+    "id": 320,
+    "prompt": "want to",
+    "answer": "need to",
+    "page": 19
+  },
+  {
+    "id": 321,
+    "prompt": "slowly",
+    "answer": "at under 20 km/h",
+    "page": 19
+  },
+  {
+    "id": 322,
+    "prompt": "most",
+    "answer": "especially",
+    "page": 19
+  },
+  {
+    "id": 323,
+    "prompt": "heavy traffic",
+    "answer": "busy road",
+    "page": 19
+  },
+  {
+    "id": 324,
+    "prompt": "complain",
+    "answer": "unhappy",
+    "page": 19
+  },
+  {
+    "id": 325,
+    "prompt": "like",
+    "answer": "happy to",
+    "page": 19
+  },
+  {
+    "id": 326,
+    "prompt": "the most important",
+    "answer": "the biggest advantages",
+    "page": 19
+  },
+  {
+    "id": 327,
+    "prompt": "independence",
+    "answer": "be outside without parents",
+    "page": 19
+  },
+  {
+    "id": 328,
+    "prompt": "community",
+    "answer": "a big extended family",
+    "page": 19
+  },
+  {
+    "id": 329,
+    "prompt": "surprise",
+    "answer": "what I haven’texpected",
+    "page": 19
+  },
+  {
+    "id": 330,
+    "prompt": "more",
+    "answer": "go up considerably",
+    "page": 19
+  },
+  {
+    "id": 331,
+    "prompt": "less noise pollution",
+    "answer": "quiet",
+    "page": 19
+  },
+  {
+    "id": 332,
+    "prompt": "may",
+    "answer": "perhaps",
+    "page": 19
+  },
+  {
+    "id": 333,
+    "prompt": "avoid",
+    "answer": "won’tdo…",
+    "page": 19
+  },
+  {
+    "id": 334,
+    "prompt": "decline in",
+    "answer": "lack of",
+    "page": 19
+  },
+  {
+    "id": 335,
+    "prompt": "bathing",
+    "answer": "cleanliness",
+    "page": 19
+  },
+  {
+    "id": 336,
+    "prompt": "contribute to",
+    "answer": "major factors",
+    "page": 19
+  },
+  {
+    "id": 337,
+    "prompt": "begin",
+    "answer": "for the first time",
+    "page": 19
+  },
+  {
+    "id": 338,
+    "prompt": "make A from B",
+    "answer": "turn B into A",
+    "page": 19
+  },
+  {
+    "id": 339,
+    "prompt": "turn…into…",
+    "answer": "become",
+    "page": 19
+  },
+  {
+    "id": 340,
+    "prompt": "remove",
+    "answer": "no longer",
+    "page": 19
+  },
+  {
+    "id": 341,
+    "prompt": "normal",
+    "answer": "standard",
+    "page": 20
+  },
+  {
+    "id": 342,
+    "prompt": "most satisfy with",
+    "answer": "the best thing",
+    "page": 20
+  },
+  {
+    "id": 343,
+    "prompt": "neither satisfy nor dissatisfy with",
+    "answer": "don’thave opinion",
+    "page": 20
+  },
+  {
+    "id": 344,
+    "prompt": "how much",
+    "answer": "the amount",
+    "page": 20
+  },
+  {
+    "id": 345,
+    "prompt": "supervise",
+    "answer": "not to leave them on their own",
+    "page": 20
+  },
+  {
+    "id": 346,
+    "prompt": "no payment",
+    "answer": "free",
+    "page": 20
+  },
+  {
+    "id": 347,
+    "prompt": "close at weekends",
+    "answer": "open from Monday to Thursday, we hope to",
+    "page": 20
+  },
+  {
+    "id": 348,
+    "prompt": "keep frozen",
+    "answer": "don’tmelt",
+    "page": 20
+  },
+  {
+    "id": 349,
+    "prompt": "commercial business",
+    "answer": "sold/cost",
+    "page": 20
+  },
+  {
+    "id": 350,
+    "prompt": "dispose of",
+    "answer": "dump",
+    "page": 20
+  },
+  {
+    "id": 351,
+    "prompt": "good value for money",
+    "answer": "not expensive",
+    "page": 20
+  },
+  {
+    "id": 352,
+    "prompt": "impact",
+    "answer": "effect",
+    "page": 20
+  },
+  {
+    "id": 353,
+    "prompt": "measure",
+    "answer": "use as an indication",
+    "page": 20
+  },
+  {
+    "id": 354,
+    "prompt": "Britain",
+    "answer": "the country",
+    "page": 20
+  },
+  {
+    "id": 355,
+    "prompt": "improvements",
+    "answer": "developments",
+    "page": 20
+  },
+  {
+    "id": 356,
+    "prompt": "and",
+    "answer": "as well as",
+    "page": 20
+  },
+  {
+    "id": 357,
+    "prompt": "greatly",
+    "answer": "massive",
+    "page": 20
+  },
+  {
+    "id": 358,
+    "prompt": "happen",
+    "answer": "take place",
+    "page": 20
+  },
+  {
+    "id": 359,
+    "prompt": "without",
+    "answer": "not",
+    "page": 20
+  },
+  {
+    "id": 360,
+    "prompt": "new sources of",
+    "answer": "new types of",
+    "page": 20
+  },
+  {
+    "id": 361,
+    "prompt": "leading",
+    "answer": "advanced",
+    "page": 20
+  },
+  {
+    "id": 362,
+    "prompt": "greater",
+    "answer": "significantly",
+    "page": 20
+  },
+  {
+    "id": 363,
+    "prompt": "not limited to",
+    "answer": "instead of just",
+    "page": 20
+  },
+  {
+    "id": 364,
+    "prompt": "better",
+    "answer": "improved",
+    "page": 20
+  },
+  {
+    "id": 365,
+    "prompt": "bigger",
+    "answer": "larger",
+    "page": 20
+  },
+  {
+    "id": 366,
+    "prompt": "persuade",
+    "answer": "persuasive",
+    "page": 20
+  },
+  {
+    "id": 367,
+    "prompt": "create",
+    "answer": "design",
+    "page": 21
+  },
+  {
+    "id": 368,
+    "prompt": "build",
+    "answer": "make",
+    "page": 21
+  },
+  {
+    "id": 369,
+    "prompt": "tallest",
+    "answer": "highest",
+    "page": 21
+  },
+  {
+    "id": 370,
+    "prompt": "make",
+    "answer": "design/build",
+    "page": 21
+  },
+  {
+    "id": 371,
+    "prompt": "build",
+    "answer": "construct",
+    "page": 21
+  },
+  {
+    "id": 372,
+    "prompt": "longest bridge",
+    "answer": "bridge, the longest one",
+    "page": 21
+  },
+  {
+    "id": 373,
+    "prompt": "short",
+    "answer": "five-minute",
+    "page": 21
+  },
+  {
+    "id": 374,
+    "prompt": "found",
+    "answer": "set up",
+    "page": 21
+  },
+  {
+    "id": 375,
+    "prompt": "originally",
+    "answer": "first five years",
+    "page": 21
+  },
+  {
+    "id": 376,
+    "prompt": "healthcare",
+    "answer": "hospital",
+    "page": 21
+  },
+  {
+    "id": 377,
+    "prompt": "never",
+    "answer": "no",
+    "page": 21
+  },
+  {
+    "id": 378,
+    "prompt": "talk",
+    "answer": "presentation",
+    "page": 21
+  },
+  {
+    "id": 379,
+    "prompt": "research resources",
+    "answer": "books and websites",
+    "page": 21
+  },
+  {
+    "id": 380,
+    "prompt": "change",
+    "answer": "amend",
+    "page": 21
+  },
+  {
+    "id": 381,
+    "prompt": "rationale",
+    "answer": "explain the basis for…",
+    "page": 21
+  },
+  {
+    "id": 382,
+    "prompt": "less",
+    "answer": "not to be too",
+    "page": 21
+  },
+  {
+    "id": 383,
+    "prompt": "specific",
+    "answer": "precise",
+    "page": 21
+  },
+  {
+    "id": 384,
+    "prompt": "possible",
+    "answer": "potential",
+    "page": 21
+  },
+  {
+    "id": 385,
+    "prompt": "threat",
+    "answer": "dangerous",
+    "page": 21
+  },
+  {
+    "id": 386,
+    "prompt": "rapid",
+    "answer": "fast",
+    "page": 21
+  },
+  {
+    "id": 387,
+    "prompt": "movement",
+    "answer": "motion",
+    "page": 21
+  },
+  {
+    "id": 388,
+    "prompt": "color",
+    "answer": "blue, red, black",
+    "page": 21
+  },
+  {
+    "id": 389,
+    "prompt": "childhood",
+    "answer": "when I was little",
+    "page": 21
+  },
+  {
+    "id": 390,
+    "prompt": "ambiguous",
+    "answer": "confused",
+    "page": 21
+  },
+  {
+    "id": 391,
+    "prompt": "nature",
+    "answer": "natural world",
+    "page": 21
+  },
+  {
+    "id": 392,
+    "prompt": "continuity",
+    "answer": "never-ending cycle",
+    "page": 21
+  },
+  {
+    "id": 393,
+    "prompt": "life",
+    "answer": "existence",
+    "page": 21
+  },
+  {
+    "id": 394,
+    "prompt": "protection",
+    "answer": "carefully…doesn’thurt it",
+    "page": 21
+  },
+  {
+    "id": 395,
+    "prompt": "A because of B",
+    "answer": "B therefore A",
+    "page": 21
+  },
+  {
+    "id": 396,
+    "prompt": "well known",
+    "answer": "famous",
+    "page": 21
+  },
+  {
+    "id": 397,
+    "prompt": "view",
+    "answer": "perspective",
+    "page": 21
+  },
+  {
+    "id": 398,
+    "prompt": "consider as",
+    "answer": "see as",
+    "page": 21
+  },
+  {
+    "id": 399,
+    "prompt": "organize",
+    "answer": "put on",
+    "page": 21
+  },
+  {
+    "id": 400,
+    "prompt": "ideas",
+    "answer": "theories",
+    "page": 22
+  },
+  {
+    "id": 401,
+    "prompt": "treatment for",
+    "answer": "treat",
+    "page": 22
+  },
+  {
+    "id": 402,
+    "prompt": "identify…as…",
+    "answer": "turn…into…",
+    "page": 22
+  },
+  {
+    "id": 403,
+    "prompt": "a lot of",
+    "answer": "considerable",
+    "page": 22
+  },
+  {
+    "id": 404,
+    "prompt": "or",
+    "answer": "and also",
+    "page": 23
+  },
+  {
+    "id": 405,
+    "prompt": "name",
+    "answer": "called",
+    "page": 23
+  },
+  {
+    "id": 406,
+    "prompt": "change",
+    "answer": "alter",
+    "page": 23
+  },
+  {
+    "id": 407,
+    "prompt": "not",
+    "answer": "aren’t",
+    "page": 23
+  },
+  {
+    "id": 408,
+    "prompt": "correctly",
+    "answer": "properly",
+    "page": 23
+  },
+  {
+    "id": 409,
+    "prompt": "private home",
+    "answer": "family home",
+    "page": 23
+  },
+  {
+    "id": 410,
+    "prompt": "long",
+    "answer": "considerable",
+    "page": 23
+  },
+  {
+    "id": 411,
+    "prompt": "queuing",
+    "answer": "wait",
+    "page": 23
+  },
+  {
+    "id": 412,
+    "prompt": "menus",
+    "answer": "food/cuisine",
+    "page": 23
+  },
+  {
+    "id": 413,
+    "prompt": "take",
+    "answer": "bring",
+    "page": 23
+  },
+  {
+    "id": 414,
+    "prompt": "daily",
+    "answer": "each day",
+    "page": 23
+  },
+  {
+    "id": 415,
+    "prompt": "vegetarian",
+    "answer": "don’teat meat or fish",
+    "page": 23
+  },
+  {
+    "id": 416,
+    "prompt": "new",
+    "answer": "going to start/will",
+    "page": 23
+  },
+  {
+    "id": 417,
+    "prompt": "acting",
+    "answer": "drama",
+    "page": 23
+  },
+  {
+    "id": 418,
+    "prompt": "confused",
+    "answer": "mixed up",
+    "page": 23
+  },
+  {
+    "id": 419,
+    "prompt": "real",
+    "answer": "actually happened",
+    "page": 23
+  },
+  {
+    "id": 420,
+    "prompt": "fail to",
+    "answer": "didn’t",
+    "page": 23
+  },
+  {
+    "id": 421,
+    "prompt": "conclusions",
+    "answer": "answer/results",
+    "page": 23
+  },
+  {
+    "id": 422,
+    "prompt": "guidelines",
+    "answer": "regulations",
+    "page": 23
+  },
+  {
+    "id": 423,
+    "prompt": "working with",
+    "answer": "involves",
+    "page": 23
+  },
+  {
+    "id": 424,
+    "prompt": "increase",
+    "answer": "more",
+    "page": 23
+  },
+  {
+    "id": 425,
+    "prompt": "illness",
+    "answer": "health problems",
+    "page": 23
+  },
+  {
+    "id": 426,
+    "prompt": "better",
+    "answer": "improve",
+    "page": 23
+  },
+  {
+    "id": 427,
+    "prompt": "faster",
+    "answer": "quickly",
+    "page": 23
+  },
+  {
+    "id": 428,
+    "prompt": "exercise",
+    "answer": "activity",
+    "page": 23
+  },
+  {
+    "id": 429,
+    "prompt": "lessen",
+    "answer": "reduce",
+    "page": 23
+  },
+  {
+    "id": 430,
+    "prompt": "sense of",
+    "answer": "feeling of",
+    "page": 23
+  },
+  {
+    "id": 431,
+    "prompt": "as many as",
+    "answer": "is similar to",
+    "page": 23
+  },
+  {
+    "id": 432,
+    "prompt": "suffer from",
+    "answer": "with",
+    "page": 23
+  },
+  {
+    "id": 433,
+    "prompt": "First of all",
+    "answer": "First",
+    "page": 24
+  },
+  {
+    "id": 434,
+    "prompt": "Is required",
+    "answer": "Have to",
+    "page": 24
+  },
+  {
+    "id": 435,
+    "prompt": "A change of clothing",
+    "answer": "Spare clothes",
+    "page": 24
+  },
+  {
+    "id": 436,
+    "prompt": "Meet",
+    "answer": "Meet up",
+    "page": 24
+  },
+  {
+    "id": 437,
+    "prompt": "Flexible",
+    "answer": "Don’twant to be stuck with…",
+    "page": 24
+  },
+  {
+    "id": 438,
+    "prompt": "Natural environment",
+    "answer": "Rural setting/plants and trees",
+    "page": 24
+  },
+  {
+    "id": 439,
+    "prompt": "Disadvantage",
+    "answer": "Challenge",
+    "page": 24
+  },
+  {
+    "id": 440,
+    "prompt": "Weather condition",
+    "answer": "Cold and windy",
+    "page": 24
+  },
+  {
+    "id": 441,
+    "prompt": "Fitness",
+    "answer": "Fit",
+    "page": 24
+  },
+  {
+    "id": 442,
+    "prompt": "Housing",
+    "answer": "Place to live",
+    "page": 24
+  },
+  {
+    "id": 443,
+    "prompt": "quiet",
+    "answer": "remote",
+    "page": 24
+  },
+  {
+    "id": 444,
+    "prompt": "location",
+    "answer": "area",
+    "page": 24
+  },
+  {
+    "id": 445,
+    "prompt": "intensive",
+    "answer": "fast-paced/work hard",
+    "page": 24
+  },
+  {
+    "id": 446,
+    "prompt": "fun",
+    "answer": "play hard",
+    "page": 24
+  },
+  {
+    "id": 447,
+    "prompt": "Chance",
+    "answer": "opportunity",
+    "page": 24
+  },
+  {
+    "id": 448,
+    "prompt": "quickly",
+    "answer": "rapid",
+    "page": 24
+  },
+  {
+    "id": 449,
+    "prompt": "promotion",
+    "answer": "make their way up the career ladder",
+    "page": 24
+  },
+  {
+    "id": 450,
+    "prompt": "Not permanent",
+    "answer": "12-month",
+    "page": 24
+  },
+  {
+    "id": 451,
+    "prompt": "travel",
+    "answer": "visit",
+    "page": 24
+  },
+  {
+    "id": 452,
+    "prompt": "local",
+    "answer": "In the region",
+    "page": 24
+  },
+  {
+    "id": 453,
+    "prompt": "accommodation",
+    "answer": "cottage/estate",
+    "page": 24
+  },
+  {
+    "id": 454,
+    "prompt": "Unaware of",
+    "answer": "didn’tknow",
+    "page": 24
+  },
+  {
+    "id": 455,
+    "prompt": "A large sample",
+    "answer": "So many people",
+    "page": 24
+  },
+  {
+    "id": 456,
+    "prompt": "Unsuitable",
+    "answer": "Weren’taccurate",
+    "page": 24
+  },
+  {
+    "id": 457,
+    "prompt": "Hard to understand",
+    "answer": "Confusing",
+    "page": 24
+  },
+  {
+    "id": 458,
+    "prompt": "Recommended",
+    "answer": "Guidelines",
+    "page": 24
+  },
+  {
+    "id": 459,
+    "prompt": "Changes",
+    "answer": "Modification",
+    "page": 24
+  },
+  {
+    "id": 460,
+    "prompt": "Content",
+    "answer": "What to include",
+    "page": 24
+  },
+  {
+    "id": 461,
+    "prompt": "Organization",
+    "answer": "What will go where",
+    "page": 24
+  },
+  {
+    "id": 462,
+    "prompt": "Imagine",
+    "answer": "Picture",
+    "page": 24
+  },
+  {
+    "id": 463,
+    "prompt": "A decade ago",
+    "answer": "During the previous decade",
+    "page": 24
+  },
+  {
+    "id": 464,
+    "prompt": "Be expected to",
+    "answer": "Be predicted to",
+    "page": 25
+  },
+  {
+    "id": 465,
+    "prompt": "Disappear",
+    "answer": "Vanish",
+    "page": 25
+  },
+  {
+    "id": 466,
+    "prompt": "Buying",
+    "answer": "Sales pattern",
+    "page": 25
+  },
+  {
+    "id": 467,
+    "prompt": "More",
+    "answer": "Increase",
+    "page": 25
+  },
+  {
+    "id": 468,
+    "prompt": "Equipment for knitting",
+    "answer": "Knitting equipment",
+    "page": 25
+  },
+  {
+    "id": 469,
+    "prompt": "Give support",
+    "answer": "Be helpful",
+    "page": 25
+  },
+  {
+    "id": 470,
+    "prompt": "Difficulty",
+    "answer": "Hardships",
+    "page": 25
+  },
+  {
+    "id": 471,
+    "prompt": "Require",
+    "answer": "Need to",
+    "page": 25
+  },
+  {
+    "id": 472,
+    "prompt": "Money",
+    "answer": "Financial outlay",
+    "page": 25
+  },
+  {
+    "id": 473,
+    "prompt": "Little",
+    "answer": "Minimal",
+    "page": 25
+  },
+  {
+    "id": 474,
+    "prompt": "Felt rough to touch",
+    "answer": "Are rough on the skin",
+    "page": 25
+  },
+  {
+    "id": 475,
+    "prompt": "Area",
+    "answer": "Regional",
+    "page": 25
+  },
+  {
+    "id": 476,
+    "prompt": "Their own",
+    "answer": "Difference in",
+    "page": 25
+  },
+  {
+    "id": 477,
+    "prompt": "Look after",
+    "answer": "Watch over",
+    "page": 25
+  },
+  {
+    "id": 478,
+    "prompt": "Available",
+    "answer": "Free",
+    "page": 26
+  },
+  {
+    "id": 479,
+    "prompt": "Into",
+    "answer": "Get to",
+    "page": 26
+  },
+  {
+    "id": 480,
+    "prompt": "Several",
+    "answer": "Plenty of",
+    "page": 26
+  },
+  {
+    "id": 481,
+    "prompt": "Spaces",
+    "answer": "Room",
+    "page": 26
+  },
+  {
+    "id": 482,
+    "prompt": "Old bridge",
+    "answer": "Bridge, it’sthe oldest…",
+    "page": 26
+  },
+  {
+    "id": 483,
+    "prompt": "Deadline",
+    "answer": "Last day",
+    "page": 26
+  },
+  {
+    "id": 484,
+    "prompt": "Payment",
+    "answer": "Money",
+    "page": 26
+  },
+  {
+    "id": 485,
+    "prompt": "Main",
+    "answer": "Significant number of people…",
+    "page": 26
+  },
+  {
+    "id": 486,
+    "prompt": "Concern",
+    "answer": "Complain",
+    "page": 26
+  },
+  {
+    "id": 487,
+    "prompt": "Cut",
+    "answer": "reduction",
+    "page": 26
+  },
+  {
+    "id": 488,
+    "prompt": "train service",
+    "answer": "public transport",
+    "page": 26
+  },
+  {
+    "id": 489,
+    "prompt": "widened",
+    "answer": "wider",
+    "page": 26
+  },
+  {
+    "id": 490,
+    "prompt": "funding",
+    "answer": "budget",
+    "page": 26
+  },
+  {
+    "id": 491,
+    "prompt": "unsafe",
+    "answer": "dangerous",
+    "page": 26
+  },
+  {
+    "id": 492,
+    "prompt": "notice",
+    "answer": "get signs up",
+    "page": 26
+  },
+  {
+    "id": 493,
+    "prompt": "requesting",
+    "answer": "asking/telling/warning",
+    "page": 26
+  },
+  {
+    "id": 494,
+    "prompt": "motorists",
+    "answer": "drivers",
+    "page": 26
+  },
+  {
+    "id": 495,
+    "prompt": "Most",
+    "answer": "Main",
+    "page": 26
+  },
+  {
+    "id": 496,
+    "prompt": "Important",
+    "answer": "Significant",
+    "page": 26
+  },
+  {
+    "id": 497,
+    "prompt": "Reduce",
+    "answer": "Cut",
+    "page": 26
+  },
+  {
+    "id": 498,
+    "prompt": "Improve air quality",
+    "answer": "Reduce emissions on air pollution",
+    "page": 26
+  },
+  {
+    "id": 499,
+    "prompt": "Reduce traffic congestion",
+    "answer": "Cut the number of ca rs on the road",
+    "page": 26
+  },
+  {
+    "id": 500,
+    "prompt": "Fitness",
+    "answer": "Physical activities",
+    "page": 26
+  },
+  {
+    "id": 501,
+    "prompt": "Easily",
+    "answer": "Easy to use",
+    "page": 26
+  },
+  {
+    "id": 502,
+    "prompt": "Loads of",
+    "answer": "A large of",
+    "page": 26
+  },
+  {
+    "id": 503,
+    "prompt": "Bike",
+    "answer": "Cycle",
+    "page": 26
+  },
+  {
+    "id": 504,
+    "prompt": "Awareness",
+    "answer": "Know/understand",
+    "page": 26
+  },
+  {
+    "id": 505,
+    "prompt": "Surprised",
+    "answer": "Strange",
+    "page": 26
+  },
+  {
+    "id": 506,
+    "prompt": "Successful",
+    "answer": "Such a demand for…",
+    "page": 26
+  },
+  {
+    "id": 507,
+    "prompt": "More… is required",
+    "answer": "Not enough",
+    "page": 26
+  },
+  {
+    "id": 508,
+    "prompt": "Investment",
+    "answer": "Spent on",
+    "page": 26
+  },
+  {
+    "id": 509,
+    "prompt": "Well",
+    "answer": "Good",
+    "page": 26
+  },
+  {
+    "id": 510,
+    "prompt": "Designed",
+    "answer": "Planning",
+    "page": 26
+  },
+  {
+    "id": 511,
+    "prompt": "Disappointing",
+    "answer": "Shame",
+    "page": 26
+  },
+  {
+    "id": 512,
+    "prompt": "Transport",
+    "answer": "Carry",
+    "page": 27
+  },
+  {
+    "id": 513,
+    "prompt": "Collect",
+    "answer": "Stock up",
+    "page": 27
+  },
+  {
+    "id": 514,
+    "prompt": "Establish",
+    "answer": "Set up",
+    "page": 27
+  },
+  {
+    "id": 515,
+    "prompt": "Suggest",
+    "answer": "Appears to be",
+    "page": 27
+  },
+  {
+    "id": 516,
+    "prompt": "Extremely",
+    "answer": "Very",
+    "page": 27
+  },
+  {
+    "id": 517,
+    "prompt": "Only",
+    "answer": "Only one",
+    "page": 27
+  },
+  {
+    "id": 518,
+    "prompt": "Remaining",
+    "answer": "Exist/survive",
+    "page": 27
+  },
+  {
+    "id": 519,
+    "prompt": "Find",
+    "answer": "Locate",
+    "page": 27
+  },
+  {
+    "id": 520,
+    "prompt": "Eat",
+    "answer": "Consume",
+    "page": 27
+  },
+  {
+    "id": 521,
+    "prompt": "Arrival",
+    "answer": "Introduction",
+    "page": 27
+  },
+  {
+    "id": 522,
+    "prompt": "Farming",
+    "answer": "Agriculture",
+    "page": 27
+  },
+  {
+    "id": 523,
+    "prompt": "Destroy",
+    "answer": "Cut down",
+    "page": 27
+  },
+  {
+    "id": 524,
+    "prompt": "free of …",
+    "answer": "does not have …",
+    "page": 28
+  },
+  {
+    "id": 525,
+    "prompt": "I’mafraid not",
+    "answer": "no",
+    "page": 28
+  },
+  {
+    "id": 526,
+    "prompt": "maintain",
+    "answer": "look after … and make sure they are in good",
+    "page": 28
+  },
+  {
+    "id": 527,
+    "prompt": "create",
+    "answer": "install",
+    "page": 28
+  },
+  {
+    "id": 528,
+    "prompt": "work on",
+    "answer": "take action to",
+    "page": 28
+  },
+  {
+    "id": 529,
+    "prompt": "attract",
+    "answer": "encourage",
+    "page": 28
+  },
+  {
+    "id": 530,
+    "prompt": "types",
+    "answer": "species",
+    "page": 28
+  },
+  {
+    "id": 531,
+    "prompt": "replace",
+    "answer": "build a new …",
+    "page": 28
+  },
+  {
+    "id": 532,
+    "prompt": "walk to",
+    "answer": "reach",
+    "page": 28
+  },
+  {
+    "id": 533,
+    "prompt": "it is okay for…",
+    "answer": "it is suitable for",
+    "page": 28
+  },
+  {
+    "id": 534,
+    "prompt": "take part (in)",
+    "answer": "participate (in)",
+    "page": 28
+  },
+  {
+    "id": 535,
+    "prompt": "wooden",
+    "answer": "… out of wood",
+    "page": 28
+  },
+  {
+    "id": 536,
+    "prompt": "either side",
+    "answer": "each side",
+    "page": 28
+  },
+  {
+    "id": 537,
+    "prompt": "ham",
+    "answer": "meat",
+    "page": 28
+  },
+  {
+    "id": 538,
+    "prompt": "tuna",
+    "answer": "fish",
+    "page": 28
+  },
+  {
+    "id": 539,
+    "prompt": "as",
+    "answer": "why",
+    "page": 28
+  },
+  {
+    "id": 540,
+    "prompt": "worker",
+    "answer": "staff",
+    "page": 28
+  },
+  {
+    "id": 541,
+    "prompt": "right in front of …/beside",
+    "answer": "co me close to",
+    "page": 28
+  },
+  {
+    "id": 542,
+    "prompt": "explain",
+    "answer": "give more information",
+    "page": 28
+  },
+  {
+    "id": 543,
+    "prompt": "drive",
+    "answer": "transport",
+    "page": 28
+  },
+  {
+    "id": 544,
+    "prompt": "a month, two weeks",
+    "answer": "length of time",
+    "page": 28
+  },
+  {
+    "id": 545,
+    "prompt": "travel",
+    "answer": "transport",
+    "page": 28
+  },
+  {
+    "id": 546,
+    "prompt": "wasn’teasy",
+    "answer": "problem",
+    "page": 28
+  },
+  {
+    "id": 547,
+    "prompt": "wasn’tstraightforward",
+    "answer": "having difficulty …",
+    "page": 28
+  },
+  {
+    "id": 548,
+    "prompt": "deliver a baby",
+    "answer": "give birth",
+    "page": 28
+  },
+  {
+    "id": 549,
+    "prompt": "mostly",
+    "answer": "mainly",
+    "page": 28
+  },
+  {
+    "id": 550,
+    "prompt": "rear",
+    "answer": "breed",
+    "page": 28
+  },
+  {
+    "id": 551,
+    "prompt": "require",
+    "answer": "need",
+    "page": 28
+  },
+  {
+    "id": 552,
+    "prompt": "particularly",
+    "answer": "specially",
+    "page": 28
+  },
+  {
+    "id": 553,
+    "prompt": "easy",
+    "answer": "straightforward",
+    "page": 28
+  },
+  {
+    "id": 554,
+    "prompt": "expected",
+    "answer": "thought",
+    "page": 28
+  },
+  {
+    "id": 555,
+    "prompt": "don’tknow much",
+    "answer": "little is known",
+    "page": 28
+  },
+  {
+    "id": 556,
+    "prompt": "dissertation",
+    "answer": "study",
+    "page": 28
+  },
+  {
+    "id": 557,
+    "prompt": "a kind of",
+    "answer": "a type of",
+    "page": 28
+  },
+  {
+    "id": 558,
+    "prompt": "na vigate",
+    "answer": "find your way",
+    "page": 29
+  },
+  {
+    "id": 559,
+    "prompt": "come from",
+    "answer": "derive from",
+    "page": 29
+  },
+  {
+    "id": 560,
+    "prompt": "a state of",
+    "answer": "a feeling of",
+    "page": 29
+  },
+  {
+    "id": 561,
+    "prompt": "across many cultures",
+    "answer": "Sardinia, Scandinavia, Arizona, India, Africa",
+    "page": 29
+  },
+  {
+    "id": 562,
+    "prompt": "large",
+    "answer": "big",
+    "page": 29
+  },
+  {
+    "id": 563,
+    "prompt": "centre",
+    "answer": "middle (of it)",
+    "page": 29
+  },
+  {
+    "id": 564,
+    "prompt": "em otional",
+    "answer": "me ntal",
+    "page": 29
+  },
+  {
+    "id": 565,
+    "prompt": "slow",
+    "answer": "reduce … rate",
+    "page": 29
+  },
+  {
+    "id": 566,
+    "prompt": "wellness",
+    "answer": "medical and health",
+    "page": 29
+  },
+  {
+    "id": 567,
+    "prompt": "spas",
+    "answer": "fitness settings",
+    "page": 29
+  },
+  {
+    "id": 568,
+    "prompt": "paper XX",
+    "answer": "XX made from paper",
+    "page": 29
+  },
+  {
+    "id": 569,
+    "prompt": "study",
+    "answer": "research",
+    "page": 29
+  },
+  {
+    "id": 570,
+    "prompt": "relief",
+    "answer": "less",
+    "page": 29
+  },
+  {
+    "id": 571,
+    "prompt": "add new rooms, demolish",
+    "answer": "changes",
+    "page": 30
+  },
+  {
+    "id": 572,
+    "prompt": "literary people, painter, poet",
+    "answer": "artist and writer",
+    "page": 30
+  },
+  {
+    "id": 573,
+    "prompt": "volunteer",
+    "answer": "people",
+    "page": 30
+  },
+  {
+    "id": 574,
+    "prompt": "dress up",
+    "answer": "in costume",
+    "page": 30
+  },
+  {
+    "id": 575,
+    "prompt": "latest",
+    "answer": "new",
+    "page": 30
+  },
+  {
+    "id": 576,
+    "prompt": "child-sized",
+    "answer": "mini",
+    "page": 30
+  },
+  {
+    "id": 577,
+    "prompt": "lunch, cake",
+    "answer": "eating",
+    "page": 30
+  },
+  {
+    "id": 578,
+    "prompt": "tea, coffee",
+    "answer": "drinking",
+    "page": 30
+  },
+  {
+    "id": 579,
+    "prompt": "agriculture",
+    "answer": "farming",
+    "page": 30
+  },
+  {
+    "id": 580,
+    "prompt": "tool",
+    "answer": "equipment",
+    "page": 30
+  },
+  {
+    "id": 581,
+    "prompt": "groom, keep…clean",
+    "answer": "look after",
+    "page": 30
+  },
+  {
+    "id": 582,
+    "prompt": "donkey, horse, cattle, sheep",
+    "answer": "animals",
+    "page": 30
+  },
+  {
+    "id": 583,
+    "prompt": "buy",
+    "answer": "shopping",
+    "page": 30
+  },
+  {
+    "id": 584,
+    "prompt": "tour",
+    "answer": "trip",
+    "page": 30
+  },
+  {
+    "id": 585,
+    "prompt": "hardly ever found",
+    "answer": "rare",
+    "page": 30
+  },
+  {
+    "id": 586,
+    "prompt": "major strength",
+    "answer": "stunning, memorable, amazing",
+    "page": 30
+  },
+  {
+    "id": 587,
+    "prompt": "create the right atmosphere",
+    "answer": "change the mood of the quieter scenes",
+    "page": 30
+  },
+  {
+    "id": 588,
+    "prompt": "assume",
+    "answer": "expect",
+    "page": 30
+  },
+  {
+    "id": 589,
+    "prompt": "traditional",
+    "answer": "conventional",
+    "page": 30
+  },
+  {
+    "id": 590,
+    "prompt": "disappointed",
+    "answer": "wasted, shame",
+    "page": 30
+  },
+  {
+    "id": 591,
+    "prompt": "disagreement",
+    "answer": "problem",
+    "page": 30
+  },
+  {
+    "id": 592,
+    "prompt": "family",
+    "answer": "teenagers and their parents",
+    "page": 30
+  },
+  {
+    "id": 593,
+    "prompt": "demanding",
+    "answer": "challenging",
+    "page": 30
+  },
+  {
+    "id": 594,
+    "prompt": "moving",
+    "answer": "intensify the emotion",
+    "page": 30
+  },
+  {
+    "id": 595,
+    "prompt": "understand",
+    "answer": "interpret",
+    "page": 30
+  },
+  {
+    "id": 596,
+    "prompt": "in many ways",
+    "answer": "in different levels",
+    "page": 30
+  },
+  {
+    "id": 597,
+    "prompt": "around",
+    "answer": "approximately",
+    "page": 30
+  },
+  {
+    "id": 598,
+    "prompt": "still",
+    "answer": "continually",
+    "page": 30
+  },
+  {
+    "id": 599,
+    "prompt": "growing",
+    "answer": "increasing",
+    "page": 30
+  },
+  {
+    "id": 600,
+    "prompt": "quickly",
+    "answer": "fast",
+    "page": 30
+  },
+  {
+    "id": 601,
+    "prompt": "identify",
+    "answer": "say",
+    "page": 30
+  },
+  {
+    "id": 602,
+    "prompt": "complex",
+    "answer": "complicated",
+    "page": 30
+  },
+  {
+    "id": 603,
+    "prompt": "not…or…",
+    "answer": "neither",
+    "page": 30
+  },
+  {
+    "id": 604,
+    "prompt": "family holidays",
+    "answer": "holidays all the family can enjoy",
+    "page": 31
+  },
+  {
+    "id": 605,
+    "prompt": "quite",
+    "answer": "pretty",
+    "page": 31
+  },
+  {
+    "id": 606,
+    "prompt": "good, nice",
+    "answer": "good quality",
+    "page": 31
+  },
+  {
+    "id": 607,
+    "prompt": "well-known",
+    "answer": "famous",
+    "page": 31
+  },
+  {
+    "id": 608,
+    "prompt": "explore",
+    "answer": "look around",
+    "page": 31
+  },
+  {
+    "id": 609,
+    "prompt": "local",
+    "answer": "nearby",
+    "page": 31
+  },
+  {
+    "id": 610,
+    "prompt": "best",
+    "answer": "favourite",
+    "page": 31
+  },
+  {
+    "id": 611,
+    "prompt": "per day",
+    "answer": "daily",
+    "page": 31
+  },
+  {
+    "id": 612,
+    "prompt": "maximum",
+    "answer": "up to",
+    "page": 31
+  },
+  {
+    "id": 613,
+    "prompt": "proper meal",
+    "answer": "pasta or a casserole",
+    "page": 31
+  },
+  {
+    "id": 614,
+    "prompt": "varied",
+    "answer": "different",
+    "page": 31
+  },
+  {
+    "id": 615,
+    "prompt": "help",
+    "answer": "support",
+    "page": 31
+  },
+  {
+    "id": 616,
+    "prompt": "parent",
+    "answer": "parental",
+    "page": 31
+  },
+  {
+    "id": 617,
+    "prompt": "additional fee",
+    "answer": "extra charge",
+    "page": 31
+  },
+  {
+    "id": 618,
+    "prompt": "request",
+    "answer": "keep asking",
+    "page": 31
+  },
+  {
+    "id": 619,
+    "prompt": "haven’t… until now",
+    "answer": "new",
+    "page": 31
+  },
+  {
+    "id": 620,
+    "prompt": "fresh air",
+    "answer": "outdoor",
+    "page": 31
+  },
+  {
+    "id": 621,
+    "prompt": "most",
+    "answer": "priority",
+    "page": 31
+  },
+  {
+    "id": 622,
+    "prompt": "keep…within the boundary",
+    "answer": "stay",
+    "page": 31
+  },
+  {
+    "id": 623,
+    "prompt": "hard",
+    "answer": "not easy",
+    "page": 31
+  },
+  {
+    "id": 624,
+    "prompt": "photograph",
+    "answer": "snap",
+    "page": 31
+  },
+  {
+    "id": 625,
+    "prompt": "schedule",
+    "answer": "timetable",
+    "page": 31
+  },
+  {
+    "id": 626,
+    "prompt": "in the past",
+    "answer": "last year",
+    "page": 31
+  },
+  {
+    "id": 627,
+    "prompt": "rain",
+    "answer": "bad weather",
+    "page": 31
+  },
+  {
+    "id": 628,
+    "prompt": "injury",
+    "answer": "get hurt",
+    "page": 31
+  },
+  {
+    "id": 629,
+    "prompt": "flexible",
+    "answer": "change…timetable…",
+    "page": 31
+  },
+  {
+    "id": 630,
+    "prompt": "appearance",
+    "answer": "dress up",
+    "page": 31
+  },
+  {
+    "id": 631,
+    "prompt": "calm, panic, crazy",
+    "answer": "emotion",
+    "page": 31
+  },
+  {
+    "id": 632,
+    "prompt": "think ahead",
+    "answer": "think of the future",
+    "page": 31
+  },
+  {
+    "id": 633,
+    "prompt": "bury in",
+    "answer": "hide",
+    "page": 31
+  },
+  {
+    "id": 634,
+    "prompt": "loss of",
+    "answer": "lost",
+    "page": 31
+  },
+  {
+    "id": 635,
+    "prompt": "logical",
+    "answer": "understandable",
+    "page": 31
+  },
+  {
+    "id": 636,
+    "prompt": "fly to",
+    "answer": "migrate",
+    "page": 31
+  },
+  {
+    "id": 637,
+    "prompt": "kill",
+    "answer": "shot",
+    "page": 31
+  },
+  {
+    "id": 638,
+    "prompt": "previously…no…",
+    "answer": "first",
+    "page": 31
+  },
+  {
+    "id": 639,
+    "prompt": "little was known",
+    "answer": "little information",
+    "page": 32
+  },
+  {
+    "id": 640,
+    "prompt": "travel",
+    "answer": "journey",
+    "page": 32
+  },
+  {
+    "id": 641,
+    "prompt": "incapable of",
+    "answer": "impossible",
+    "page": 32
+  },
+  {
+    "id": 642,
+    "prompt": "huge",
+    "answer": "vast",
+    "page": 32
+  },
+  {
+    "id": 643,
+    "prompt": "travel across",
+    "answer": "fly over",
+    "page": 32
+  },
+  {
+    "id": 644,
+    "prompt": "called",
+    "answer": "known as",
+    "page": 32
+  },
+  {
+    "id": 645,
+    "prompt": "print",
+    "answer": "publish",
+    "page": 32
+  },
+  {
+    "id": 646,
+    "prompt": "throughout",
+    "answer": "every",
+    "page": 33
+  },
+  {
+    "id": 647,
+    "prompt": "if you need",
+    "answer": "if necessary",
+    "page": 33
+  },
+  {
+    "id": 648,
+    "prompt": "background check",
+    "answer": "security check",
+    "page": 33
+  },
+  {
+    "id": 649,
+    "prompt": "customer",
+    "answer": "client",
+    "page": 33
+  },
+  {
+    "id": 650,
+    "prompt": "don’trealise",
+    "answer": "unaware",
+    "page": 33
+  },
+  {
+    "id": 651,
+    "prompt": "realise",
+    "answer": "aware",
+    "page": 33
+  },
+  {
+    "id": 652,
+    "prompt": "equally",
+    "answer": "fairly",
+    "page": 33
+  },
+  {
+    "id": 653,
+    "prompt": "preferential treatment",
+    "answer": "failing…equally",
+    "page": 33
+  },
+  {
+    "id": 654,
+    "prompt": "the amount each customer spent",
+    "answer": "the spending per customer",
+    "page": 33
+  },
+  {
+    "id": 655,
+    "prompt": "training, potential, prospects",
+    "answer": "career opportunities",
+    "page": 33
+  },
+  {
+    "id": 656,
+    "prompt": "reward, all-expenses-paid trip, vouchers",
+    "answer": "incentives and financial benefits",
+    "page": 33
+  },
+  {
+    "id": 657,
+    "prompt": "partners, family",
+    "answer": "relationship",
+    "page": 33
+  },
+  {
+    "id": 658,
+    "prompt": "as a whole, co-operative, supportive",
+    "answer": "teamwork",
+    "page": 33
+  },
+  {
+    "id": 659,
+    "prompt": "work hard",
+    "answer": "practice",
+    "page": 33
+  },
+  {
+    "id": 660,
+    "prompt": "fellow students",
+    "answer": "classmates",
+    "page": 33
+  },
+  {
+    "id": 661,
+    "prompt": "admire",
+    "answer": "think…is brilliant",
+    "page": 33
+  },
+  {
+    "id": 662,
+    "prompt": "cannot be happening",
+    "answer": "disbelief",
+    "page": 33
+  },
+  {
+    "id": 663,
+    "prompt": "fortunate, great chance",
+    "answer": "gratitude",
+    "page": 33
+  },
+  {
+    "id": 664,
+    "prompt": "sweat",
+    "answer": "wet hair",
+    "page": 33
+  },
+  {
+    "id": 665,
+    "prompt": "rubber, wooden",
+    "answer": "material",
+    "page": 33
+  },
+  {
+    "id": 666,
+    "prompt": "mass production",
+    "answer": "factory",
+    "page": 33
+  },
+  {
+    "id": 667,
+    "prompt": "get another…",
+    "answer": "replace",
+    "page": 33
+  },
+  {
+    "id": 668,
+    "prompt": "make their own",
+    "answer": "produce themselves",
+    "page": 33
+  },
+  {
+    "id": 669,
+    "prompt": "spectators",
+    "answer": "people watching",
+    "page": 33
+  },
+  {
+    "id": 670,
+    "prompt": "injury",
+    "answer": "damage",
+    "page": 33
+  },
+  {
+    "id": 671,
+    "prompt": "does not",
+    "answer": "without",
+    "page": 33
+  },
+  {
+    "id": 672,
+    "prompt": "best",
+    "answer": "perfectly",
+    "page": 33
+  },
+  {
+    "id": 673,
+    "prompt": "hot",
+    "answer": "boil",
+    "page": 33
+  },
+  {
+    "id": 674,
+    "prompt": "large quantities of",
+    "answer": "a lot of",
+    "page": 33
+  },
+  {
+    "id": 675,
+    "prompt": "look",
+    "answer": "appearance",
+    "page": 33
+  },
+  {
+    "id": 676,
+    "prompt": "produce",
+    "answer": "make",
+    "page": 33
+  },
+  {
+    "id": 677,
+    "prompt": "cost too high",
+    "answer": "cost so much",
+    "page": 34
+  },
+  {
+    "id": 678,
+    "prompt": "a lack of",
+    "answer": "doesn’thave any",
+    "page": 34
+  },
+  {
+    "id": 679,
+    "prompt": "squashed",
+    "answer": "very close together",
+    "page": 34
+  },
+  {
+    "id": 680,
+    "prompt": "age",
+    "answer": "how old",
+    "page": 34
+  },
+  {
+    "id": 681,
+    "prompt": "continuous",
+    "answer": "doesn’tend, before…during…after…",
+    "page": 34
+  },
+  {
+    "id": 682,
+    "prompt": "financial",
+    "answer": "income",
+    "page": 34
+  },
+  {
+    "id": 683,
+    "prompt": "commitment",
+    "answer": "dedication, give their full energy",
+    "page": 34
+  },
+  {
+    "id": 684,
+    "prompt": "availability",
+    "answer": "enough hours",
+    "page": 34
+  },
+  {
+    "id": 685,
+    "prompt": "raise money",
+    "answer": "fundraising",
+    "page": 34
+  },
+  {
+    "id": 686,
+    "prompt": "creativity",
+    "answer": "original, new ideas",
+    "page": 34
+  },
+  {
+    "id": 687,
+    "prompt": "fitness",
+    "answer": "walk for long period, uphill",
+    "page": 34
+  },
+  {
+    "id": 688,
+    "prompt": "nutrition",
+    "answer": "food and diet",
+    "page": 34
+  },
+  {
+    "id": 689,
+    "prompt": "a good memory",
+    "answer": "not forget",
+    "page": 34
+  },
+  {
+    "id": 690,
+    "prompt": "experience on stage",
+    "answer": "acting, performance",
+    "page": 34
+  },
+  {
+    "id": 691,
+    "prompt": "view is blocked",
+    "answer": "hard to see",
+    "page": 34
+  },
+  {
+    "id": 692,
+    "prompt": "next to",
+    "answer": "beside",
+    "page": 34
+  },
+  {
+    "id": 693,
+    "prompt": "talking",
+    "answer": "chatting",
+    "page": 34
+  },
+  {
+    "id": 694,
+    "prompt": "variety",
+    "answer": "whole range of",
+    "page": 34
+  },
+  {
+    "id": 695,
+    "prompt": "realise",
+    "answer": "think of",
+    "page": 34
+  },
+  {
+    "id": 696,
+    "prompt": "how much",
+    "answer": "numerous",
+    "page": 34
+  },
+  {
+    "id": 697,
+    "prompt": "disagree",
+    "answer": "differ",
+    "page": 34
+  },
+  {
+    "id": 698,
+    "prompt": "appearance",
+    "answer": "how she looked",
+    "page": 34
+  },
+  {
+    "id": 699,
+    "prompt": "money",
+    "answer": "financial reward",
+    "page": 34
+  },
+  {
+    "id": 700,
+    "prompt": "openly",
+    "answer": "should have hidden",
+    "page": 34
+  },
+  {
+    "id": 701,
+    "prompt": "negative feeling",
+    "answer": "dislike",
+    "page": 34
+  },
+  {
+    "id": 702,
+    "prompt": "kno ck down",
+    "answer": "damage",
+    "page": 34
+  },
+  {
+    "id": 703,
+    "prompt": "from the same family",
+    "answer": "belonging to one family",
+    "page": 34
+  },
+  {
+    "id": 704,
+    "prompt": "park staff",
+    "answer": "park ranger",
+    "page": 34
+  },
+  {
+    "id": 705,
+    "prompt": "reduce",
+    "answer": "minimise",
+    "page": 34
+  },
+  {
+    "id": 706,
+    "prompt": "monitor",
+    "answer": "keep an eye on",
+    "page": 34
+  },
+  {
+    "id": 707,
+    "prompt": "and",
+    "answer": "also",
+    "page": 34
+  },
+  {
+    "id": 708,
+    "prompt": "opportunity",
+    "answer": "prospect",
+    "page": 34
+  },
+  {
+    "id": 709,
+    "prompt": "a reduction in the number of",
+    "answer": "no longer an issue, give up",
+    "page": 35
+  },
+  {
+    "id": 710,
+    "prompt": "increase",
+    "answer": "draw",
+    "page": 35
+  },
+  {
+    "id": 711,
+    "prompt": "staff",
+    "answer": "employee",
+    "page": 35
+  },
+  {
+    "id": 712,
+    "prompt": "specification",
+    "answer": "specific requirement",
+    "page": 35
+  },
+  {
+    "id": 713,
+    "prompt": "a high level of",
+    "answer": "a high standard of",
+    "page": 35
+  },
+  {
+    "id": 714,
+    "prompt": "qualification",
+    "answer": "certificate",
+    "page": 35
+  },
+  {
+    "id": 715,
+    "prompt": "start",
+    "answer": "begin",
+    "page": 35
+  },
+  {
+    "id": 716,
+    "prompt": "organise",
+    "answer": "sort out",
+    "page": 35
+  },
+  {
+    "id": 717,
+    "prompt": "once a month",
+    "answer": "every four weeks",
+    "page": 35
+  },
+  {
+    "id": 718,
+    "prompt": "reason",
+    "answer": "why",
+    "page": 35
+  },
+  {
+    "id": 719,
+    "prompt": "select",
+    "answer": "choose",
+    "page": 35
+  },
+  {
+    "id": 720,
+    "prompt": "geographical feature",
+    "answer": "steep slope",
+    "page": 35
+  },
+  {
+    "id": 721,
+    "prompt": "local facilities",
+    "answer": "hospital, school",
+    "page": 35
+  },
+  {
+    "id": 722,
+    "prompt": "agricultural",
+    "answer": "farming",
+    "page": 35
+  },
+  {
+    "id": 723,
+    "prompt": "worker",
+    "answer": "employee",
+    "page": 35
+  },
+  {
+    "id": 724,
+    "prompt": "environment",
+    "answer": "natural features, trees and wildlife",
+    "page": 35
+  },
+  {
+    "id": 725,
+    "prompt": "rural",
+    "answer": "countryside",
+    "page": 35
+  },
+  {
+    "id": 726,
+    "prompt": "significant",
+    "answer": "important",
+    "page": 35
+  },
+  {
+    "id": 727,
+    "prompt": "social",
+    "answer": "society",
+    "page": 35
+  },
+  {
+    "id": 728,
+    "prompt": "so many",
+    "answer": "the number of",
+    "page": 35
+  },
+  {
+    "id": 729,
+    "prompt": "health issues",
+    "answer": "headache, respiratory issues, asthma",
+    "page": 35
+  },
+  {
+    "id": 730,
+    "prompt": "long-lasting",
+    "answer": "go on so long",
+    "page": 35
+  },
+  {
+    "id": 731,
+    "prompt": "speed",
+    "answer": "swiftly",
+    "page": 35
+  },
+  {
+    "id": 732,
+    "prompt": "spread",
+    "answer": "drift",
+    "page": 35
+  },
+  {
+    "id": 733,
+    "prompt": "more…than any other",
+    "answer": "the most",
+    "page": 35
+  },
+  {
+    "id": 734,
+    "prompt": "loss of life",
+    "answer": "dying",
+    "page": 35
+  },
+  {
+    "id": 735,
+    "prompt": "livestock",
+    "answer": "animal",
+    "page": 35
+  },
+  {
+    "id": 736,
+    "prompt": "poison",
+    "answer": "sickness",
+    "page": 35
+  },
+  {
+    "id": 737,
+    "prompt": "young people",
+    "answer": "people under 25",
+    "page": 35
+  },
+  {
+    "id": 738,
+    "prompt": "snowbound, ice floating",
+    "answer": "harsh winter",
+    "page": 36
+  },
+  {
+    "id": 739,
+    "prompt": "mortality",
+    "answer": "death",
+    "page": 36
+  },
+  {
+    "id": 740,
+    "prompt": "man",
+    "answer": "male",
+    "page": 36
+  },
+  {
+    "id": 741,
+    "prompt": "item",
+    "answer": "object",
+    "page": 36
+  },
+  {
+    "id": 742,
+    "prompt": "concern about",
+    "answer": "worry",
+    "page": 36
+  },
+  {
+    "id": 743,
+    "prompt": "link",
+    "answer": "tie",
+    "page": 36
+  },
+  {
+    "id": 744,
+    "prompt": "such as",
+    "answer": "like…",
+    "page": 36
+  },
+  {
+    "id": 745,
+    "prompt": "under",
+    "answer": "beneath",
+    "page": 36
+  },
+  {
+    "id": 746,
+    "prompt": "clothes",
+    "answer": "skirts and petticoats",
+    "page": 36
+  },
+  {
+    "id": 747,
+    "prompt": "women’simage",
+    "answer": "image of women",
+    "page": 36
+  },
+  {
+    "id": 748,
+    "prompt": "detract",
+    "answer": "have a negative effect on",
+    "page": 36
+  },
+  {
+    "id": 749,
+    "prompt": "wrong",
+    "answer": "wasn’tright",
+    "page": 36
+  },
+  {
+    "id": 750,
+    "prompt": "feedback",
+    "answer": "what I was told",
+    "page": 36
+  },
+  {
+    "id": 751,
+    "prompt": "beside",
+    "answer": "near",
+    "page": 36
+  },
+  {
+    "id": 752,
+    "prompt": "animals",
+    "answer": "dear, squirrel",
+    "page": 36
+  },
+  {
+    "id": 753,
+    "prompt": "poisonous",
+    "answer": "deadly",
+    "page": 36
+  },
+  {
+    "id": 754,
+    "prompt": "early",
+    "answer": "morning",
+    "page": 36
+  },
+  {
+    "id": 755,
+    "prompt": "can’tpick all",
+    "answer": "limited amount",
+    "page": 36
+  },
+  {
+    "id": 756,
+    "prompt": "building",
+    "answer": "houses",
+    "page": 36
+  },
+  {
+    "id": 757,
+    "prompt": "recipes",
+    "answer": "dishes, stir fries, risottos, pasta",
+    "page": 36
+  },
+  {
+    "id": 758,
+    "prompt": "ineffective",
+    "answer": "didn’tachieve anything",
+    "page": 36
+  },
+  {
+    "id": 759,
+    "prompt": "understandable",
+    "answer": "I would feel the same",
+    "page": 36
+  },
+  {
+    "id": 760,
+    "prompt": "fall",
+    "answer": "lower",
+    "page": 36
+  },
+  {
+    "id": 761,
+    "prompt": "more",
+    "answer": "rise",
+    "page": 36
+  },
+  {
+    "id": 762,
+    "prompt": "efficient",
+    "answer": "productivity",
+    "page": 36
+  },
+  {
+    "id": 763,
+    "prompt": "go up",
+    "answer": "increase",
+    "page": 36
+  },
+  {
+    "id": 764,
+    "prompt": "income",
+    "answer": "earning",
+    "page": 36
+  },
+  {
+    "id": 765,
+    "prompt": "rise",
+    "answer": "growth",
+    "page": 37
+  },
+  {
+    "id": 766,
+    "prompt": "redundant",
+    "answer": "be at risk",
+    "page": 37
+  },
+  {
+    "id": 767,
+    "prompt": "consisting of",
+    "answer": "made up of",
+    "page": 37
+  },
+  {
+    "id": 768,
+    "prompt": "transmit",
+    "answer": "send",
+    "page": 37
+  },
+  {
+    "id": 769,
+    "prompt": "at a given time",
+    "answer": "at a particular time",
+    "page": 37
+  },
+  {
+    "id": 770,
+    "prompt": "make a prediction",
+    "answer": "put forward a prediction",
+    "page": 37
+  },
+  {
+    "id": 771,
+    "prompt": "common",
+    "answer": "shared",
+    "page": 37
+  },
+  {
+    "id": 772,
+    "prompt": "one",
+    "answer": "single",
+    "page": 37
+  },
+  {
+    "id": 773,
+    "prompt": "create",
+    "answer": "establish",
+    "page": 37
+  },
+  {
+    "id": 774,
+    "prompt": "location",
+    "answer": "where",
+    "page": 37
+  },
+  {
+    "id": 775,
+    "prompt": "reorganise",
+    "answer": "reschedule",
+    "page": 37
+  },
+  {
+    "id": 776,
+    "prompt": "maintain",
+    "answer": "keep",
+    "page": 37
+  },
+  {
+    "id": 777,
+    "prompt": "and",
+    "answer": "at the same time",
+    "page": 37
+  },
+  {
+    "id": 778,
+    "prompt": "teaching room",
+    "answer": "room for lessons",
+    "page": 37
+  },
+  {
+    "id": 779,
+    "prompt": "supervise…",
+    "answer": "keep…close to you",
+    "page": 37
+  },
+  {
+    "id": 780,
+    "prompt": "new things",
+    "answer": "a few days old",
+    "page": 37
+  },
+  {
+    "id": 781,
+    "prompt": "closed",
+    "answer": "can’tvisit",
+    "page": 37
+  },
+  {
+    "id": 782,
+    "prompt": "quiz",
+    "answer": "test, answer questions",
+    "page": 37
+  },
+  {
+    "id": 783,
+    "prompt": "expert",
+    "answer": "specialist",
+    "page": 37
+  },
+  {
+    "id": 784,
+    "prompt": "student",
+    "answer": "young people on … courses",
+    "page": 37
+  },
+  {
+    "id": 785,
+    "prompt": "follow instructions",
+    "answer": "make sure all the steps",
+    "page": 37
+  },
+  {
+    "id": 786,
+    "prompt": "learn",
+    "answer": "being taught something new",
+    "page": 37
+  },
+  {
+    "id": 787,
+    "prompt": "have fun",
+    "answer": "play",
+    "page": 37
+  },
+  {
+    "id": 788,
+    "prompt": "independence",
+    "answer": "work things out oneself",
+    "page": 37
+  },
+  {
+    "id": 789,
+    "prompt": "competitive",
+    "answer": "want to be the best",
+    "page": 37
+  },
+  {
+    "id": 790,
+    "prompt": "confused",
+    "answer": "don’tget what is going on, unsure",
+    "page": 37
+  },
+  {
+    "id": 791,
+    "prompt": "calming",
+    "answer": "settle down",
+    "page": 37
+  },
+  {
+    "id": 792,
+    "prompt": "step s",
+    "answer": "stages",
+    "page": 37
+  },
+  {
+    "id": 793,
+    "prompt": "present",
+    "answer": "introduce",
+    "page": 37
+  },
+  {
+    "id": 794,
+    "prompt": "theatre",
+    "answer": "stage musical",
+    "page": 37
+  },
+  {
+    "id": 795,
+    "prompt": "cinema",
+    "answer": "film",
+    "page": 37
+  },
+  {
+    "id": 796,
+    "prompt": "overall",
+    "answer": "general",
+    "page": 38
+  },
+  {
+    "id": 797,
+    "prompt": "exile",
+    "answer": "leave, no return",
+    "page": 38
+  },
+  {
+    "id": 798,
+    "prompt": "reside",
+    "answer": "live",
+    "page": 38
+  },
+  {
+    "id": 799,
+    "prompt": "house",
+    "answer": "property",
+    "page": 38
+  },
+  {
+    "id": 800,
+    "prompt": "collapse",
+    "answer": "the end of",
+    "page": 38
+  },
+  {
+    "id": 801,
+    "prompt": "along with",
+    "answer": "and",
+    "page": 38
+  },
+  {
+    "id": 802,
+    "prompt": "furniture made of wood",
+    "answer": "wooden furniture",
+    "page": 38
+  },
+  {
+    "id": 803,
+    "prompt": "look out",
+    "answer": "have the view of",
+    "page": 38
+  },
+  {
+    "id": 804,
+    "prompt": "as well as",
+    "answer": "also",
+    "page": 38
+  },
+  {
+    "id": 805,
+    "prompt": "deprived",
+    "answer": "poor",
+    "page": 38
+  },
+  {
+    "id": 806,
+    "prompt": "donate",
+    "answer": "give",
+    "page": 38
+  },
+  {
+    "id": 807,
+    "prompt": "concentrate on",
+    "answer": "focus on",
+    "page": 38
+  },
+  {
+    "id": 808,
+    "prompt": "tempo",
+    "answer": "speed",
+    "page": 38
+  },
+  {
+    "id": 809,
+    "prompt": "a sense of",
+    "answer": "a feeling of",
+    "page": 38
+  },
+  {
+    "id": 810,
+    "prompt": "may",
+    "answer": "might",
+    "page": 38
+  },
+  {
+    "id": 811,
+    "prompt": "develop",
+    "answer": "learn",
+    "page": 38
+  },
+  {
+    "id": 812,
+    "prompt": "per",
+    "answer": "each",
+    "page": 38
+  },
+  {
+    "id": 813,
+    "prompt": "leaders and other adults",
+    "answer": "adults such as leaders",
+    "page": 38
+  },
+  {
+    "id": 814,
+    "prompt": "especially",
+    "answer": "highlight",
+    "page": 38
+  },
+  {
+    "id": 815,
+    "prompt": "enjoy",
+    "answer": "have a great time",
+    "page": 38
+  },
+  {
+    "id": 816,
+    "prompt": "raise most funds",
+    "answer": "record profit",
+    "page": 38
+  },
+  {
+    "id": 817,
+    "prompt": "go to a restaurant",
+    "answer": "eating out",
+    "page": 38
+  },
+  {
+    "id": 818,
+    "prompt": "meal",
+    "answer": "dinner",
+    "page": 38
+  },
+  {
+    "id": 819,
+    "prompt": "home",
+    "answer": "house",
+    "page": 38
+  },
+  {
+    "id": 820,
+    "prompt": "concert",
+    "answer": "band, songs",
+    "page": 38
+  },
+  {
+    "id": 821,
+    "prompt": "satisfying",
+    "answer": "great feeling, pleased",
+    "page": 38
+  },
+  {
+    "id": 822,
+    "prompt": "waste",
+    "answer": "food that would’ve been thrown away",
+    "page": 38
+  },
+  {
+    "id": 823,
+    "prompt": "design",
+    "answer": "pattern",
+    "page": 38
+  },
+  {
+    "id": 824,
+    "prompt": "medical",
+    "answer": "drug, hospital, pharmacy",
+    "page": 38
+  },
+  {
+    "id": 825,
+    "prompt": "drink",
+    "answer": "milk, juice",
+    "page": 38
+  },
+  {
+    "id": 826,
+    "prompt": "blind",
+    "answer": "visually impaired",
+    "page": 38
+  },
+  {
+    "id": 827,
+    "prompt": "weight",
+    "answer": "kilogram",
+    "page": 39
+  },
+  {
+    "id": 828,
+    "prompt": "encourage",
+    "answer": "motive",
+    "page": 39
+  },
+  {
+    "id": 829,
+    "prompt": "government",
+    "answer": "regulation",
+    "page": 39
+  },
+  {
+    "id": 830,
+    "prompt": "widespread",
+    "answer": "lots of people … for years",
+    "page": 39
+  },
+  {
+    "id": 831,
+    "prompt": "won’tdo that again",
+    "answer": "disappointing",
+    "page": 39
+  },
+  {
+    "id": 832,
+    "prompt": "know",
+    "answer": "aware of",
+    "page": 39
+  },
+  {
+    "id": 833,
+    "prompt": "little",
+    "answer": "weren’t",
+    "page": 39
+  },
+  {
+    "id": 834,
+    "prompt": "dangerous",
+    "answer": "risk",
+    "page": 39
+  },
+  {
+    "id": 835,
+    "prompt": "dig for",
+    "answer": "find",
+    "page": 39
+  },
+  {
+    "id": 836,
+    "prompt": "deficiency",
+    "answer": "lack of",
+    "page": 39
+  },
+  {
+    "id": 837,
+    "prompt": "extended",
+    "answer": "big",
+    "page": 39
+  },
+  {
+    "id": 838,
+    "prompt": "during winter",
+    "answer": "in the winter",
+    "page": 39
+  },
+  {
+    "id": 839,
+    "prompt": "decline in quality",
+    "answer": "less productive",
+    "page": 39
+  },
+  {
+    "id": 840,
+    "prompt": "increase in",
+    "answer": "more",
+    "page": 39
+  },
+  {
+    "id": 841,
+    "prompt": "place",
+    "answer": "where",
+    "page": 39
+  },
+  {
+    "id": 842,
+    "prompt": "time",
+    "answer": "when",
+    "page": 39
+  },
+  {
+    "id": 843,
+    "prompt": "single",
+    "answer": "individual",
+    "page": 39
+  },
+  {
+    "id": 844,
+    "prompt": "pursuit an interest",
+    "answer": "develop a hobby",
+    "page": 39
+  },
+  {
+    "id": 845,
+    "prompt": "satisfying",
+    "answer": "interesting",
+    "page": 39
+  },
+  {
+    "id": 846,
+    "prompt": "a resident",
+    "answer": "a member",
+    "page": 39
+  },
+  {
+    "id": 847,
+    "prompt": "concerned about",
+    "answer": "interested in",
+    "page": 39
+  },
+  {
+    "id": 848,
+    "prompt": "rush to",
+    "answer": "arrive at",
+    "page": 39
+  },
+  {
+    "id": 849,
+    "prompt": "aim",
+    "answer": "target",
+    "page": 39
+  },
+  {
+    "id": 850,
+    "prompt": "decide",
+    "answer": "decision",
+    "page": 39
+  },
+  {
+    "id": 851,
+    "prompt": "if",
+    "answer": "whether",
+    "page": 39
+  },
+  {
+    "id": 852,
+    "prompt": "give talks",
+    "answer": "speak",
+    "page": 39
+  },
+  {
+    "id": 853,
+    "prompt": "confidence",
+    "answer": "mental strength",
+    "page": 39
+  },
+  {
+    "id": 854,
+    "prompt": "motivating",
+    "answer": "rewarding",
+    "page": 39
+  },
+  {
+    "id": 855,
+    "prompt": "team",
+    "answer": "group",
+    "page": 39
+  },
+  {
+    "id": 856,
+    "prompt": "winter",
+    "answer": "colder months",
+    "page": 39
+  },
+  {
+    "id": 857,
+    "prompt": "limited",
+    "answer": "isn’tenough",
+    "page": 39
+  },
+  {
+    "id": 858,
+    "prompt": "no longer in fashion",
+    "answer": "out of fashion",
+    "page": 40
+  },
+  {
+    "id": 859,
+    "prompt": "confused",
+    "answer": "surprise, doesn’tmake sense",
+    "page": 40
+  },
+  {
+    "id": 860,
+    "prompt": "consumption",
+    "answer": "sales",
+    "page": 40
+  },
+  {
+    "id": 861,
+    "prompt": "rise",
+    "answer": "increase",
+    "page": 40
+  },
+  {
+    "id": 862,
+    "prompt": "less",
+    "answer": "fallen",
+    "page": 40
+  },
+  {
+    "id": 863,
+    "prompt": "colour faded",
+    "answer": "lighter shade",
+    "page": 40
+  },
+  {
+    "id": 864,
+    "prompt": "mud",
+    "answer": "dirty",
+    "page": 40
+  },
+  {
+    "id": 865,
+    "prompt": "one was missing",
+    "answer": "found the other",
+    "page": 40
+  },
+  {
+    "id": 866,
+    "prompt": "a hole in it",
+    "answer": "finger through it",
+    "page": 40
+  },
+  {
+    "id": 867,
+    "prompt": "completely alike",
+    "answer": "identical",
+    "page": 40
+  },
+  {
+    "id": 868,
+    "prompt": "a different approach",
+    "answer": "a new angle",
+    "page": 40
+  },
+  {
+    "id": 869,
+    "prompt": "straightforward",
+    "answer": "simple",
+    "page": 40
+  },
+  {
+    "id": 870,
+    "prompt": "long",
+    "answer": "length",
+    "page": 40
+  },
+  {
+    "id": 871,
+    "prompt": "how",
+    "answer": "the way",
+    "page": 40
+  },
+  {
+    "id": 872,
+    "prompt": "appearance",
+    "answer": "trait",
+    "page": 40
+  },
+  {
+    "id": 873,
+    "prompt": "habitat",
+    "answer": "where",
+    "page": 40
+  },
+  {
+    "id": 874,
+    "prompt": "bottom of the lake",
+    "answer": "bed of the lake",
+    "page": 40
+  },
+  {
+    "id": 875,
+    "prompt": "low temperatures",
+    "answer": "cold temperatures",
+    "page": 40
+  },
+  {
+    "id": 876,
+    "prompt": "protect",
+    "answer": "ensure … is not damaged",
+    "page": 40
+  },
+  {
+    "id": 877,
+    "prompt": "tests",
+    "answer": "research",
+    "page": 40
+  },
+  {
+    "id": 878,
+    "prompt": "how long",
+    "answer": "many days",
+    "page": 40
+  },
+  {
+    "id": 879,
+    "prompt": "near",
+    "answer": "by",
+    "page": 40
+  },
+  {
+    "id": 880,
+    "prompt": "across the bridge",
+    "answer": "over the bridge",
+    "page": 40
+  },
+  {
+    "id": 881,
+    "prompt": "a strawberry tart",
+    "answer": "… tarts, the strawberry one.",
+    "page": 40
+  },
+  {
+    "id": 882,
+    "prompt": "disability",
+    "answer": "deaf, hearing impaired",
+    "page": 40
+  },
+  {
+    "id": 883,
+    "prompt": "drama",
+    "answer": "actors, role play",
+    "page": 40
+  },
+  {
+    "id": 884,
+    "prompt": "a specific age group",
+    "answer": "13-14 years",
+    "page": 40
+  },
+  {
+    "id": 885,
+    "prompt": "an unhappy feeling",
+    "answer": "loneliness, lonely",
+    "page": 40
+  },
+  {
+    "id": 886,
+    "prompt": "prize",
+    "answer": "awards, medal",
+    "page": 40
+  },
+  {
+    "id": 887,
+    "prompt": "culture",
+    "answer": "festival, roots",
+    "page": 40
+  },
+  {
+    "id": 888,
+    "prompt": "funny",
+    "answer": "hilarious, laughter",
+    "page": 40
+  },
+  {
+    "id": 889,
+    "prompt": "important",
+    "answer": "serious",
+    "page": 40
+  },
+  {
+    "id": 890,
+    "prompt": "topic",
+    "answer": "issue",
+    "page": 41
+  },
+  {
+    "id": 891,
+    "prompt": "frustrated",
+    "answer": "depressing",
+    "page": 41
+  },
+  {
+    "id": 892,
+    "prompt": "interest",
+    "answer": "engagement",
+    "page": 41
+  },
+  {
+    "id": 893,
+    "prompt": "behaviour",
+    "answer": "discipline",
+    "page": 41
+  },
+  {
+    "id": 894,
+    "prompt": "data",
+    "answer": "records",
+    "page": 41
+  },
+  {
+    "id": 895,
+    "prompt": "difficult",
+    "answer": "not easy",
+    "page": 41
+  },
+  {
+    "id": 896,
+    "prompt": "human",
+    "answer": "people",
+    "page": 41
+  },
+  {
+    "id": 897,
+    "prompt": "student",
+    "answer": "children",
+    "page": 41
+  },
+  {
+    "id": 898,
+    "prompt": "not happy",
+    "answer": "upsetting",
+    "page": 41
+  },
+  {
+    "id": 899,
+    "prompt": "diet",
+    "answer": "food",
+    "page": 41
+  },
+  {
+    "id": 900,
+    "prompt": "strain",
+    "answer": "structure",
+    "page": 41
+  },
+  {
+    "id": 901,
+    "prompt": "exercise",
+    "answer": "running",
+    "page": 41
+  },
+  {
+    "id": 902,
+    "prompt": "escape",
+    "answer": "run away",
+    "page": 41
+  },
+  {
+    "id": 903,
+    "prompt": "prevent",
+    "answer": "stop",
+    "page": 41
+  },
+  {
+    "id": 904,
+    "prompt": "scale",
+    "answer": "balance",
+    "page": 41
+  },
+  {
+    "id": 905,
+    "prompt": "all young",
+    "answer": "the same age",
+    "page": 41
+  },
+  {
+    "id": 906,
+    "prompt": "calculations",
+    "answer": "average, standard deviation",
+    "page": 41
+  },
+  {
+    "id": 907,
+    "prompt": "particles",
+    "answer": "piecies",
+    "page": 41
+  },
+  {
+    "id": 908,
+    "prompt": "vehicle",
+    "answer": "cars, lorries",
+    "page": 41
+  },
+  {
+    "id": 909,
+    "prompt": "impact",
+    "answer": "effect, affect",
+    "page": 41
+  },
+  {
+    "id": 910,
+    "prompt": "wildlife",
+    "answer": "animal",
+    "page": 41
+  },
+  {
+    "id": 911,
+    "prompt": "what’smore",
+    "answer": "and",
+    "page": 41
+  },
+  {
+    "id": 912,
+    "prompt": "ban",
+    "answer": "prevent",
+    "page": 41
+  },
+  {
+    "id": 913,
+    "prompt": "skin cleaning products",
+    "answer": "shower gels and facial cleansers",
+    "page": 41
+  },
+  {
+    "id": 914,
+    "prompt": "some",
+    "answer": "many",
+    "page": 41
+  },
+  {
+    "id": 915,
+    "prompt": "add to",
+    "answer": "mix into",
+    "page": 41
+  },
+  {
+    "id": 916,
+    "prompt": "AB",
+    "answer": "B of A",
+    "page": 41
+  },
+  {
+    "id": 917,
+    "prompt": "loss",
+    "answer": "lost",
+    "page": 41
+  },
+  {
+    "id": 918,
+    "prompt": "rise in",
+    "answer": "increase in",
+    "page": 41
+  },
+  {
+    "id": 919,
+    "prompt": "natural",
+    "answer": "nature",
+    "page": 41
+  },
+  {
+    "id": 920,
+    "prompt": "not only…but also…",
+    "answer": "both…and…",
+    "page": 41
+  },
+  {
+    "id": 921,
+    "prompt": "mobile number",
+    "answer": "phone number",
+    "page": 41
+  },
+  {
+    "id": 922,
+    "prompt": "change",
+    "answer": "put a new …",
+    "page": 42
+  },
+  {
+    "id": 923,
+    "prompt": "re-stock",
+    "answer": "run out quickly and bring more …",
+    "page": 42
+  },
+  {
+    "id": 924,
+    "prompt": "health issues",
+    "answer": "heart condition, asthma",
+    "page": 42
+  },
+  {
+    "id": 925,
+    "prompt": "two",
+    "answer": "twice",
+    "page": 42
+  },
+  {
+    "id": 926,
+    "prompt": "lack of confidence",
+    "answer": "wasn’tsure …, worry … left behind",
+    "page": 42
+  },
+  {
+    "id": 927,
+    "prompt": "dislike",
+    "answer": "hate",
+    "page": 42
+  },
+  {
+    "id": 928,
+    "prompt": "a lack of time",
+    "answer": "busy schedule",
+    "page": 42
+  },
+  {
+    "id": 929,
+    "prompt": "ambition",
+    "answer": "dream",
+    "page": 42
+  },
+  {
+    "id": 930,
+    "prompt": "common sense",
+    "answer": "obvious",
+    "page": 42
+  },
+  {
+    "id": 931,
+    "prompt": "on display",
+    "answer": "on shelves",
+    "page": 42
+  },
+  {
+    "id": 932,
+    "prompt": "designed",
+    "answer": "decorative",
+    "page": 42
+  },
+  {
+    "id": 933,
+    "prompt": "mistake",
+    "answer": "wrong",
+    "page": 42
+  },
+  {
+    "id": 934,
+    "prompt": "childhood",
+    "answer": "when I was young",
+    "page": 42
+  },
+  {
+    "id": 935,
+    "prompt": "can’tafford",
+    "answer": "aren’tcheap",
+    "page": 42
+  },
+  {
+    "id": 936,
+    "prompt": "by",
+    "answer": "near",
+    "page": 42
+  },
+  {
+    "id": 937,
+    "prompt": "entrance",
+    "answer": "front door",
+    "page": 42
+  },
+  {
+    "id": 938,
+    "prompt": "back",
+    "answer": "far end",
+    "page": 42
+  },
+  {
+    "id": 939,
+    "prompt": "high",
+    "answer": "need a ladder",
+    "page": 42
+  },
+  {
+    "id": 940,
+    "prompt": "specially designed",
+    "answer": "dedicated",
+    "page": 42
+  },
+  {
+    "id": 941,
+    "prompt": "area",
+    "answer": "space",
+    "page": 42
+  },
+  {
+    "id": 942,
+    "prompt": "café",
+    "answer": "coffee shop",
+    "page": 42
+  },
+  {
+    "id": 943,
+    "prompt": "local people",
+    "answer": "local community",
+    "page": 42
+  },
+  {
+    "id": 944,
+    "prompt": "used for",
+    "answer": "exploited for",
+    "page": 42
+  },
+  {
+    "id": 945,
+    "prompt": "endangered by",
+    "answer": "devastated by",
+    "page": 42
+  },
+  {
+    "id": 946,
+    "prompt": "rear",
+    "answer": "keep",
+    "page": 42
+  },
+  {
+    "id": 947,
+    "prompt": "important",
+    "answer": "critical",
+    "page": 42
+  },
+  {
+    "id": 948,
+    "prompt": "accelerate",
+    "answer": "increase",
+    "page": 42
+  },
+  {
+    "id": 949,
+    "prompt": "return",
+    "answer": "restore",
+    "page": 42
+  },
+  {
+    "id": 950,
+    "prompt": "increased",
+    "answer": "higher",
+    "page": 42
+  },
+  {
+    "id": 951,
+    "prompt": "risk",
+    "answer": "threat",
+    "page": 42
+  },
+  {
+    "id": 952,
+    "prompt": "where",
+    "answer": "location",
+    "page": 42
+  },
+  {
+    "id": 953,
+    "prompt": "why",
+    "answer": "reason",
+    "page": 42
+  },
+  {
+    "id": 954,
+    "prompt": "near",
+    "answer": "a 2-minute walk from …",
+    "page": 42
+  },
+  {
+    "id": 955,
+    "prompt": "keen on",
+    "answer": "like",
+    "page": 43
+  },
+  {
+    "id": 956,
+    "prompt": "quite expensive",
+    "answer": "certainly not cheap",
+    "page": 43
+  },
+  {
+    "id": 957,
+    "prompt": "food",
+    "answer": "dishes",
+    "page": 43
+  },
+  {
+    "id": 958,
+    "prompt": "excellent",
+    "answer": "good",
+    "page": 43
+  },
+  {
+    "id": 959,
+    "prompt": "ingredients",
+    "answer": "products",
+    "page": 43
+  },
+  {
+    "id": 960,
+    "prompt": "per person",
+    "answer": "a head",
+    "page": 43
+  },
+  {
+    "id": 961,
+    "prompt": "last longer",
+    "answer": "survive, stand the test of time",
+    "page": 43
+  },
+  {
+    "id": 962,
+    "prompt": "in the ground",
+    "answer": "in the earth",
+    "page": 43
+  },
+  {
+    "id": 963,
+    "prompt": "mark",
+    "answer": "impressions, scratches",
+    "page": 43
+  },
+  {
+    "id": 964,
+    "prompt": "why",
+    "answer": "because",
+    "page": 43
+  },
+  {
+    "id": 965,
+    "prompt": "outlive them",
+    "answer": "last longer than they do",
+    "page": 43
+  },
+  {
+    "id": 966,
+    "prompt": "calming effect",
+    "answer": "concentration, focus",
+    "page": 43
+  },
+  {
+    "id": 967,
+    "prompt": "most of the visitors",
+    "answer": "nearly everyone comes here",
+    "page": 43
+  },
+  {
+    "id": 968,
+    "prompt": "the first time",
+    "answer": "never … before",
+    "page": 43
+  },
+  {
+    "id": 969,
+    "prompt": "take off",
+    "answer": "remove",
+    "page": 43
+  },
+  {
+    "id": 970,
+    "prompt": "jewellry",
+    "answer": "necklaces",
+    "page": 43
+  },
+  {
+    "id": 971,
+    "prompt": "essential",
+    "answer": "revolutionized the industry",
+    "page": 43
+  },
+  {
+    "id": 972,
+    "prompt": "worth buying",
+    "answer": "recommend spending money",
+    "page": 43
+  },
+  {
+    "id": 973,
+    "prompt": "ex planation, reason",
+    "answer": "be responsible for",
+    "page": 43
+  },
+  {
+    "id": 974,
+    "prompt": "smaller nuclear families",
+    "answer": "not larger extended families",
+    "page": 43
+  },
+  {
+    "id": 975,
+    "prompt": "urban design",
+    "answer": "the way cities are designed",
+    "page": 43
+  },
+  {
+    "id": 976,
+    "prompt": "mobile",
+    "answer": "move",
+    "page": 43
+  },
+  {
+    "id": 977,
+    "prompt": "work",
+    "answer": "workforce",
+    "page": 43
+  },
+  {
+    "id": 978,
+    "prompt": "solid evidence",
+    "answer": "enough evidence",
+    "page": 43
+  },
+  {
+    "id": 979,
+    "prompt": "not useful",
+    "answer": "little practical relevance",
+    "page": 43
+  },
+  {
+    "id": 980,
+    "prompt": "need further investigation",
+    "answer": "more evidence is needed",
+    "page": 43
+  },
+  {
+    "id": 981,
+    "prompt": "medical",
+    "answer": "clinical, diagnosis",
+    "page": 43
+  },
+  {
+    "id": 982,
+    "prompt": "cure",
+    "answer": "treatment",
+    "page": 43
+  },
+  {
+    "id": 983,
+    "prompt": "a situation that others will recognize",
+    "answer": "relate to",
+    "page": 43
+  },
+  {
+    "id": 984,
+    "prompt": "a sense of belonging",
+    "answer": "connected",
+    "page": 43
+  },
+  {
+    "id": 985,
+    "prompt": "health",
+    "answer": "well-being",
+    "page": 43
+  },
+  {
+    "id": 986,
+    "prompt": "recreation",
+    "answer": "pleasure",
+    "page": 43
+  },
+  {
+    "id": 987,
+    "prompt": "on the river bank",
+    "answer": "beside the river",
+    "page": 44
+  },
+  {
+    "id": 988,
+    "prompt": "over",
+    "answer": "more than",
+    "page": 44
+  },
+  {
+    "id": 989,
+    "prompt": "electric bikes",
+    "answer": "bikes, electric ones of course",
+    "page": 44
+  },
+  {
+    "id": 990,
+    "prompt": "display art projects",
+    "answer": "display projects related to art",
+    "page": 44
+  },
+  {
+    "id": 991,
+    "prompt": "discussion",
+    "answer": "talk about",
+    "page": 44
+  },
+  {
+    "id": 992,
+    "prompt": "how much",
+    "answer": "the amount of",
+    "page": 44
+  },
+  {
+    "id": 993,
+    "prompt": "care",
+    "answer": "look after",
+    "page": 44
+  },
+  {
+    "id": 994,
+    "prompt": "types",
+    "answer": "sorts",
+    "page": 44
+  },
+  {
+    "id": 995,
+    "prompt": "have a shower",
+    "answer": "get into the shower",
+    "page": 44
+  },
+  {
+    "id": 996,
+    "prompt": "cope",
+    "answer": "deal with",
+    "page": 44
+  },
+  {
+    "id": 997,
+    "prompt": "loss of",
+    "answer": "bad problems",
+    "page": 44
+  },
+  {
+    "id": 998,
+    "prompt": "avoid",
+    "answer": "prevent",
+    "page": 44
+  },
+  {
+    "id": 999,
+    "prompt": "fuel",
+    "answer": "petrol",
+    "page": 44
+  },
+  {
+    "id": 1000,
+    "prompt": "reduce",
+    "answer": "minimize",
+    "page": 44
+  },
+  {
+    "id": 1001,
+    "prompt": "entertainment",
+    "answer": "put on a show, songs, play",
+    "page": 44
+  },
+  {
+    "id": 1002,
+    "prompt": "publicity",
+    "answer": "make sure residents know about it",
+    "page": 44
+  },
+  {
+    "id": 1003,
+    "prompt": "advice",
+    "answer": "recommendation",
+    "page": 44
+  },
+  {
+    "id": 1004,
+    "prompt": "tourists",
+    "answer": "visitors",
+    "page": 44
+  },
+  {
+    "id": 1005,
+    "prompt": "feedback",
+    "answer": "what people think about …",
+    "page": 44
+  },
+  {
+    "id": 1006,
+    "prompt": "cooperation",
+    "answer": "help each other",
+    "page": 44
+  },
+  {
+    "id": 1007,
+    "prompt": "find their seats",
+    "answer": "get people to the right place",
+    "page": 44
+  },
+  {
+    "id": 1008,
+    "prompt": "important",
+    "answer": "essential",
+    "page": 44
+  },
+  {
+    "id": 1009,
+    "prompt": "interpersonal skills",
+    "answer": "get on well with other people",
+    "page": 44
+  },
+  {
+    "id": 1010,
+    "prompt": "forthcoming",
+    "answer": "the next",
+    "page": 44
+  },
+  {
+    "id": 1011,
+    "prompt": "a boat trip",
+    "answer": "a trip along canal",
+    "page": 44
+  },
+  {
+    "id": 1012,
+    "prompt": "too vague",
+    "answer": "too general",
+    "page": 44
+  },
+  {
+    "id": 1013,
+    "prompt": "not be relevant",
+    "answer": "taken off the syllabus",
+    "page": 44
+  },
+  {
+    "id": 1014,
+    "prompt": "straightforward",
+    "answer": "easy",
+    "page": 45
+  },
+  {
+    "id": 1015,
+    "prompt": "not reliable",
+    "answer": "information gets changed",
+    "page": 45
+  },
+  {
+    "id": 1016,
+    "prompt": "in her own city",
+    "answer": "where she comes from",
+    "page": 45
+  },
+  {
+    "id": 1017,
+    "prompt": "crime",
+    "answer": "theft, robbery",
+    "page": 45
+  },
+  {
+    "id": 1018,
+    "prompt": "a lot of people don’thave jobs",
+    "answer": "unemployment",
+    "page": 45
+  },
+  {
+    "id": 1019,
+    "prompt": "sports",
+    "answer": "football",
+    "page": 45
+  },
+  {
+    "id": 1020,
+    "prompt": "retail centres",
+    "answer": "shopping centres",
+    "page": 45
+  },
+  {
+    "id": 1021,
+    "prompt": "can’tbe cheap",
+    "answer": "unexpected costs",
+    "page": 45
+  },
+  {
+    "id": 1022,
+    "prompt": "damage",
+    "answer": "do harm to",
+    "page": 45
+  },
+  {
+    "id": 1023,
+    "prompt": "sustainable energy",
+    "answer": "renewable energy",
+    "page": 45
+  },
+  {
+    "id": 1024,
+    "prompt": "uncertain",
+    "answer": "not sure",
+    "page": 45
+  },
+  {
+    "id": 1025,
+    "prompt": "opposition",
+    "answer": "against",
+    "page": 45
+  },
+  {
+    "id": 1026,
+    "prompt": "how much of it has actually been built",
+    "answer": "how far they’re got with it",
+    "page": 45
+  },
+  {
+    "id": 1027,
+    "prompt": "growth",
+    "answer": "rise",
+    "page": 45
+  },
+  {
+    "id": 1028,
+    "prompt": "grown",
+    "answer": "increase",
+    "page": 45
+  },
+  {
+    "id": 1029,
+    "prompt": "rapidly",
+    "answer": "quickly",
+    "page": 45
+  },
+  {
+    "id": 1030,
+    "prompt": "advertisements",
+    "answer": "advertising",
+    "page": 45
+  },
+  {
+    "id": 1031,
+    "prompt": "health benefits",
+    "answer": "beneficial for health",
+    "page": 45
+  },
+  {
+    "id": 1032,
+    "prompt": "coffee shops",
+    "answer": "coffee chains",
+    "page": 45
+  },
+  {
+    "id": 1033,
+    "prompt": "strengthen",
+    "answer": "build",
+    "page": 45
+  },
+  {
+    "id": 1034,
+    "prompt": "fishery",
+    "answer": "seafood",
+    "page": 45
+  },
+  {
+    "id": 1035,
+    "prompt": "soar",
+    "answer": "increase in",
+    "page": 45
+  },
+  {
+    "id": 1036,
+    "prompt": "poor quality soil",
+    "answer": "fertility of soil decreased dramatically",
+    "page": 45
+  },
+  {
+    "id": 1037,
+    "prompt": "free",
+    "answer": "at no extra cost",
+    "page": 45
+  },
+  {
+    "id": 1038,
+    "prompt": "cheapest prices",
+    "answer": "lowest prices",
+    "page": 45
+  },
+  {
+    "id": 1039,
+    "prompt": "both … and …",
+    "answer": "and",
+    "page": 45
+  },
+  {
+    "id": 1040,
+    "prompt": "equipment",
+    "answer": "items",
+    "page": 45
+  },
+  {
+    "id": 1041,
+    "prompt": "own",
+    "answer": "yourself",
+    "page": 45
+  },
+  {
+    "id": 1042,
+    "prompt": "prices",
+    "answer": "cost, charges",
+    "page": 45
+  },
+  {
+    "id": 1043,
+    "prompt": "start",
+    "answer": "set up",
+    "page": 46
+  },
+  {
+    "id": 1044,
+    "prompt": "earth",
+    "answer": "soil",
+    "page": 46
+  },
+  {
+    "id": 1045,
+    "prompt": "heavy rain",
+    "answer": "rainstorm",
+    "page": 46
+  },
+  {
+    "id": 1046,
+    "prompt": "remove",
+    "answer": "wash away",
+    "page": 46
+  },
+  {
+    "id": 1047,
+    "prompt": "people",
+    "answer": "person",
+    "page": 46
+  },
+  {
+    "id": 1048,
+    "prompt": "lucky",
+    "answer": "by chance",
+    "page": 46
+  },
+  {
+    "id": 1049,
+    "prompt": "old records",
+    "answer": "old maps and documents",
+    "page": 46
+  },
+  {
+    "id": 1050,
+    "prompt": "structure",
+    "answer": "building",
+    "page": 46
+  },
+  {
+    "id": 1051,
+    "prompt": "grass",
+    "answer": "grassy area",
+    "page": 46
+  },
+  {
+    "id": 1052,
+    "prompt": "hope",
+    "answer": "expect, still waiting …",
+    "page": 46
+  },
+  {
+    "id": 1053,
+    "prompt": "uncover",
+    "answer": "find",
+    "page": 46
+  },
+  {
+    "id": 1054,
+    "prompt": "border",
+    "answer": "outline",
+    "page": 46
+  },
+  {
+    "id": 1055,
+    "prompt": "television",
+    "answer": "TV",
+    "page": 46
+  },
+  {
+    "id": 1056,
+    "prompt": "excavation",
+    "answer": "dig",
+    "page": 46
+  },
+  {
+    "id": 1057,
+    "prompt": "present location",
+    "answer": "you are here",
+    "page": 46
+  },
+  {
+    "id": 1058,
+    "prompt": "pleased",
+    "answer": "glad",
+    "page": 46
+  },
+  {
+    "id": 1059,
+    "prompt": "topic",
+    "answer": "subject",
+    "page": 46
+  },
+  {
+    "id": 1060,
+    "prompt": "had not been chosen by others",
+    "answer": "no one else is doing the same as us",
+    "page": 46
+  },
+  {
+    "id": 1061,
+    "prompt": "a mistaken belief",
+    "answer": "contrary to what many people think",
+    "page": 46
+  },
+  {
+    "id": 1062,
+    "prompt": "adverts",
+    "answer": "advertising",
+    "page": 46
+  },
+  {
+    "id": 1063,
+    "prompt": "surprised",
+    "answer": "hadn’trealized",
+    "page": 46
+  },
+  {
+    "id": 1064,
+    "prompt": "contract",
+    "answer": "agreement",
+    "page": 46
+  },
+  {
+    "id": 1065,
+    "prompt": "outdoors",
+    "answer": "streets",
+    "page": 46
+  },
+  {
+    "id": 1066,
+    "prompt": "comparison",
+    "answer": "compare",
+    "page": 46
+  },
+  {
+    "id": 1067,
+    "prompt": "informative",
+    "answer": "tell so many things",
+    "page": 46
+  },
+  {
+    "id": 1068,
+    "prompt": "don’tfully understand …",
+    "answer": "don’treally get …",
+    "page": 46
+  },
+  {
+    "id": 1069,
+    "prompt": "British, Britain",
+    "answer": "UK",
+    "page": 46
+  },
+  {
+    "id": 1070,
+    "prompt": "for so long",
+    "answer": "over 25 years",
+    "page": 46
+  },
+  {
+    "id": 1071,
+    "prompt": "resembles an artwork",
+    "answer": "decorative, beautiful, put on the wall",
+    "page": 46
+  },
+  {
+    "id": 1072,
+    "prompt": "insight",
+    "answer": "thoughts",
+    "page": 46
+  },
+  {
+    "id": 1073,
+    "prompt": "historically",
+    "answer": "earliest",
+    "page": 46
+  },
+  {
+    "id": 1074,
+    "prompt": "a country",
+    "answer": "Australia",
+    "page": 46
+  },
+  {
+    "id": 1075,
+    "prompt": "recent",
+    "answer": "started a few years ago",
+    "page": 46
+  },
+  {
+    "id": 1076,
+    "prompt": "accessed by …",
+    "answer": "accessible",
+    "page": 46
+  },
+  {
+    "id": 1077,
+    "prompt": "many different types of people",
+    "answer": "a diverse range of people",
+    "page": 46
+  },
+  {
+    "id": 1078,
+    "prompt": "difficulties",
+    "answer": "problems",
+    "page": 46
+  },
+  {
+    "id": 1079,
+    "prompt": "adjusted",
+    "answer": "adjustable",
+    "page": 46
+  },
+  {
+    "id": 1080,
+    "prompt": "pregnant women",
+    "answer": "women, particularly those who are pregnant",
+    "page": 46
+  },
+  {
+    "id": 1081,
+    "prompt": "smaller",
+    "answer": "size",
+    "page": 46
+  },
+  {
+    "id": 1082,
+    "prompt": "cost",
+    "answer": "budget, how much",
+    "page": 47
+  },
+  {
+    "id": 1083,
+    "prompt": "open soon",
+    "answer": "start soon",
+    "page": 47
+  },
+  {
+    "id": 1084,
+    "prompt": "best",
+    "answer": "good",
+    "page": 47
+  },
+  {
+    "id": 1085,
+    "prompt": "look",
+    "answer": "see",
+    "page": 47
+  },
+  {
+    "id": 1086,
+    "prompt": "photo",
+    "answer": "pictures, cameras",
+    "page": 47
+  },
+  {
+    "id": 1087,
+    "prompt": "don’tlet children … on their own",
+    "answer": "must stay with children",
+    "page": 47
+  },
+  {
+    "id": 1088,
+    "prompt": "even for a minute",
+    "answer": "at all times",
+    "page": 47
+  },
+  {
+    "id": 1089,
+    "prompt": "meal",
+    "answer": "lunch",
+    "page": 47
+  },
+  {
+    "id": 1090,
+    "prompt": "is new this year",
+    "answer": "only just introduced, only just started",
+    "page": 47
+  },
+  {
+    "id": 1091,
+    "prompt": "headphone, listen to",
+    "answer": "audio",
+    "page": 47
+  },
+  {
+    "id": 1092,
+    "prompt": "goalkeeper",
+    "answer": "guard the goal",
+    "page": 47
+  },
+  {
+    "id": 1093,
+    "prompt": "two",
+    "answer": "…, also …",
+    "page": 47
+  },
+  {
+    "id": 1094,
+    "prompt": "replace",
+    "answer": "change",
+    "page": 47
+  },
+  {
+    "id": 1095,
+    "prompt": "the length of …",
+    "answer": "90 minutes",
+    "page": 47
+  },
+  {
+    "id": 1096,
+    "prompt": "game",
+    "answer": "match",
+    "page": 47
+  },
+  {
+    "id": 1097,
+    "prompt": "lights",
+    "answer": "electric lamps",
+    "page": 47
+  },
+  {
+    "id": 1098,
+    "prompt": "a fee for spectators",
+    "answer": "charge fans",
+    "page": 47
+  },
+  {
+    "id": 1099,
+    "prompt": "surprising",
+    "answer": "had never occurred to me",
+    "page": 47
+  },
+  {
+    "id": 1100,
+    "prompt": "concentration",
+    "answer": "focus",
+    "page": 47
+  },
+  {
+    "id": 1101,
+    "prompt": "easy",
+    "answer": "simple",
+    "page": 47
+  },
+  {
+    "id": 1102,
+    "prompt": "too much pressure",
+    "answer": "press too hard",
+    "page": 47
+  },
+  {
+    "id": 1103,
+    "prompt": "mistake",
+    "answer": "get things wrong",
+    "page": 47
+  },
+  {
+    "id": 1104,
+    "prompt": "positively",
+    "answer": "more willing",
+    "page": 47
+  },
+  {
+    "id": 1105,
+    "prompt": "quickly",
+    "answer": "faster",
+    "page": 47
+  },
+  {
+    "id": 1106,
+    "prompt": "disadvantages",
+    "answer": "challenging",
+    "page": 47
+  },
+  {
+    "id": 1107,
+    "prompt": "educated",
+    "answer": "academic performance",
+    "page": 47
+  },
+  {
+    "id": 1108,
+    "prompt": "research shows",
+    "answer": "evidence",
+    "page": 47
+  },
+  {
+    "id": 1109,
+    "prompt": "take notes",
+    "answer": "note-taking",
+    "page": 47
+  },
+  {
+    "id": 1110,
+    "prompt": "old documents",
+    "answer": "historical documents",
+    "page": 47
+  },
+  {
+    "id": 1111,
+    "prompt": "regretful",
+    "answer": "shame",
+    "page": 47
+  },
+  {
+    "id": 1112,
+    "prompt": "local",
+    "answer": "of the region",
+    "page": 47
+  },
+  {
+    "id": 1113,
+    "prompt": "economy",
+    "answer": "economic",
+    "page": 47
+  },
+  {
+    "id": 1114,
+    "prompt": "killed",
+    "answer": "deaths",
+    "page": 48
+  },
+  {
+    "id": 1115,
+    "prompt": "hunting",
+    "answer": "eat their prey",
+    "page": 48
+  },
+  {
+    "id": 1116,
+    "prompt": "especially",
+    "answer": "particular",
+    "page": 48
+  },
+  {
+    "id": 1117,
+    "prompt": "frighten",
+    "answer": "scare away",
+    "page": 48
+  },
+  {
+    "id": 1118,
+    "prompt": "expensive",
+    "answer": "cost far too much",
+    "page": 48
+  }
+]

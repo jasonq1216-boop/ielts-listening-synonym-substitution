@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5c84b" />
+    <meta name="description" content="IELTS 听力同义替换四选一练习" />
+    <title>雅思听力同义替换</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./restored-styles.css" />
+    <link rel="stylesheet" href="./feedback.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="masthead">
+        <a class="brand" href="#home" aria-label="返回首页">
+          <span class="brand-mark">I</span>
+          <span>雅思听力<br /><em>同义替换</em></span>
+        </a>
+        <nav aria-label="主导航">
+          <button class="nav-link active" data-view="home">练习</button>
+          <button class="nav-link" data-view="bank">题库</button>
+          <button class="nav-link" data-view="review">错题本 <span id="mistakeNav" class="nav-count">0</span></button>
+        </nav>
+        <button class="stats-chip" id="statsButton" aria-label="查看学习进度"><span id="headerAccuracy">--</span><small>正确率</small></button>
+      </header>
+
+      <main>
+        <section id="homeView" class="view active">
+          <div class="hero-grid">
+            <div class="hero-copy">
+              <p class="eyebrow"><span class="pulse-dot"></span> IELTS LISTENING · SYNONYM DRILL</p>
+              <h1>听见替换，<br /><span>选得更准。</span></h1>
+              <p class="hero-lede">把听力里最容易漏掉的换词，练成下意识反应。每题四选一，做完立刻知道为什么。</p>
+              <div class="hero-actions">
+                <button id="startButton" class="primary-button">开始 12 题练习 <span>→</span></button>
+                <button class="text-button" data-view="bank">先浏览题库</button>
+              </div>
+              <div class="micro-note">按原表语境出题 · <span id="sourceCount">1,118</span> 组条目 · 键盘 A / B / C / D 作答</div>
+            </div>
+            <aside class="hero-card" aria-label="本轮练习设置">
+              <div class="card-topline"><span>QUICK SET</span><span class="live-tag">READY</span></div>
+              <div class="setting-row"><label for="questionCount">本轮题数</label><select id="questionCount"><option value="8">8 题热身</option><option value="12" selected>12 题标准</option><option value="20">20 题冲刺</option></select></div>
+              <div class="setting-row"><label for="pageFilter">资料范围</label><select id="pageFilter"><option value="all">全部资料</option></select></div>
+              <div class="card-divider"></div>
+              <div class="stat-strip"><div><strong id="totalAttempts">0</strong><span>累计作答</span></div><div><strong id="streak">0</strong><span>连对纪录</span></div><div><strong id="mastered">0</strong><span>已掌握</span></div></div>
+            </aside>
+          </div>
+
+          <section class="how-it-works" aria-labelledby="howTitle">
+            <p class="eyebrow" id="howTitle">HOW IT WORKS</p>
+            <div class="method-grid">
+              <article><b>01</b><h2>识别语境</h2><p>题干来自原始替换表，保留页码方便回看上下文。</p></article>
+              <article><b>02</b><h2>排除近义干扰</h2><p>干扰项按相邻语义场配置，避免一眼就能排除的无关词。</p></article>
+              <article><b>03</b><h2>即时复盘</h2><p>错题自动进入错题本，可一键只练薄弱项。</p></article>
+            </div>
+          </section>
+        </section>
+
+        <section id="quizView" class="view" aria-live="polite">
+          <div class="quiz-meta"><button id="quitQuiz" class="back-button">← 返回设置</button><span id="quizProgress" class="progress-label">1 / 12</span><div class="progress-track"><div id="progressFill" class="progress-fill"></div></div></div>
+          <div class="quiz-layout">
+            <section class="question-panel">
+              <p class="eyebrow">CHOOSE THE BEST REPLACEMENT</p>
+              <p class="question-kicker">原始短语</p>
+              <h2 id="questionPrompt">be of value</h2>
+              <p class="question-instruction">根据这份资料中的听力语境，选择对应的同义替换。</p>
+              <div id="options" class="options" role="group" aria-label="答案选项"></div>
+              <div id="feedback" class="feedback" hidden></div>
+              <div class="question-footer"><span id="sourcePage">来源：PDF 第 3 页</span><a id="oxfordLink" target="_blank" rel="noreferrer">在 Oxford Learner's Dictionaries 查词 ↗</a></div>
+            </section>
+            <aside class="quiz-side"><p>KEEP IN MIND</p><h3>听力替换<br />不等于逐词翻译。</h3><div class="side-rule"></div><small>判断时优先看意思、词性与上下文功能。原表中有些条目是概括、解释或反向提示，答案以原表标注的具体语境为准。</small></aside>
+          </div>
+          <div id="nextRow" class="next-row" hidden><button id="nextButton" class="primary-button">下一题 <span>→</span></button></div>
+        </section>
+
+        <section id="resultView" class="view">
+          <div class="result-card"><p class="eyebrow">SESSION COMPLETE</p><div class="score-orbit"><strong id="scorePercent">0%</strong><span>本轮正确率</span></div><h2 id="scoreHeading">继续保持这个节奏。</h2><p id="scoreDetail">你已经完成本轮练习。</p><div class="result-actions"><button id="retryMissed" class="primary-button">再练本轮错题 <span>↻</span></button><button id="newRound" class="outline-button">开始新一轮</button></div></div>
+        </section>
+
+        <section id="bankView" class="view">
+          <div class="section-heading"><div><p class="eyebrow">SOURCE BANK</p><h2>全部替换条目</h2></div><p>检索后可直接进入对应练习题。</p></div>
+          <div class="bank-controls"><label class="search-box"><span>⌕</span><input id="bankSearch" type="search" placeholder="输入短语或替换表达…" /></label><select id="bankPageFilter"><option value="all">全部页码</option></select></div>
+          <div id="bankCount" class="bank-count"></div><div id="bankList" class="bank-list"></div>
+        </section>
+
+        <section id="reviewView" class="view">
+          <div class="section-heading"><div><p class="eyebrow">MISTAKE NOTEBOOK</p><h2>错题本</h2></div><p>错一次不可怕；看清替换关系才算学会。</p></div>
+          <div id="reviewEmpty" class="empty-state"><span>◎</span><h3>这里还没有错题</h3><p>完成一轮练习后，答错的题会自动收集到这里。</p><button class="outline-button" data-view="home">去做题</button></div>
+          <div id="reviewList" class="review-list" hidden></div>
+          <button id="practiceMistakes" class="primary-button practice-mistakes" hidden>只练错题 <span>→</span></button>
+        </section>
+      </main>
+
+      <footer><span>IELTS LISTENING · SYNONYM SUBSTITUTION PRACTICE</span><span>词条依据用户提供资料整理；词义可通过 Oxford Learner's Dictionaries 复核。</span></footer>
+    </div>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
